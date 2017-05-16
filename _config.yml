@@ -9,7 +9,7 @@
 title: coolsharp
 email: coolsharp@gmail.com
 description:  coolsharp의 블로그 입니다. 유용하고 좋은 내용을 많은 분들과 공유하기 위한 페이지 입니다.
-baseurl: "/" # the subpath of your site, e.g. /blog
+baseurl: "/coolsharp.github.io" # the subpath of your site, e.g. /blog
 url: "http://coolsharp.github.com" # the base hostname & protocol for your site
 twitter_username: coolsharp
 github_username:  coolsharp
