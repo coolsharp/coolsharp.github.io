@@ -4,4 +4,8 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+이 블로그는 coolsharp 개발적인 내용을 정리하기 위한 블로그 입니다. 다양한 개발 경험을 공유할 수 있게 노력하겠습니다.
+닉네임 : coolsharp
+이름 : 김균성
+생년월일 : 1976/07/26
+email : coolsharp@gmail.com
