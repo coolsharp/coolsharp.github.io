@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Google Play APK Extensions"
+title:  "Android lib jcenter 업로드"
 date:   2018-12-18 16:00:00 +0900
 categories: jekyll update
 ---
