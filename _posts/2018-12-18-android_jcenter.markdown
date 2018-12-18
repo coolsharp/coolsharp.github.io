@@ -22,11 +22,14 @@ https://bintray.com/로 이동하여 가입을 한다.(가입 등의 설명은 �
 ## maven 저장소 생성
 레퍼지토리를 생성해야 한다.
 
-일반적으로 maven으로 생성한다.
+일반적으로 maven으로 생성한다.<br>
+
 ![레파지토리 생성](https://github.com/coolsharp/coolsharp.github.io/raw/master/assets/android_jcenter_01.png)
 
 API 키를 확인한다.
+
 ![API 키 확인](https://github.com/coolsharp/coolsharp.github.io/raw/master/assets/android_jcenter_02.png)
+
 ## Android Studio 라이브러리에 bintray 설정
 안드로이드 스튜디오 라이브러리로 이동한다.
 
@@ -54,4 +57,6 @@ publish {
 }
 ```
 
-./gradlew clean build bintrayUpload -PbintrayUser=[사용자 이름] -PbintrayKey=[API KEY] -PdryRun=false
+terminal에서 ./gradlew clean build bintrayUpload -PbintrayUser=[사용자 이름] -PbintrayKey=[API KEY] -PdryRun=false와 같이 입력한다.
+
+정상적으로 빌드가 되었다면 등록이 잘 된 것이다.
