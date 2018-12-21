@@ -2,7 +2,7 @@
 layout: post
 title:  "Google Play APK Extensions"
 date:   2018-03-29 06:00:00 +0900
-categories: jekyll update
+categories: android apkextensions
 ---
 
 ## Google Play APK Extensions 적용

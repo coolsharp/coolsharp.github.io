@@ -2,7 +2,7 @@
 layout: post
 title:  "Android lib jcenter 업로드"
 date:   2018-12-18 16:00:00 +0900
-categories: jekyll update
+categories: bintray jcenter android library maven
 ---
 
 ## 내가만든 라이브러리를 전세계 사람들과 공유하자
