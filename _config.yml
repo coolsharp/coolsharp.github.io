@@ -1,9 +1,9 @@
-title: Stack Problems
-description: My Personal Stack Problems
-author: Agus Makmun
-github: https://github.com/agusmakmun
-about: I am freelance developer. Currently doing more in backend, focused in Python and Django.
-disqus_shortname: stackproblems
+title: coolsharp
+description: coolsharp blog
+author: coolsharp
+github: https://github.com/colsharp
+about: 안드로이드 및 다양한 개발에 관심이 많은 developer
+disqus_shortname: coolsharp
 google_analytics: UA-XXXXXXXX-Y
 avatar_url: /static/img/avatar.jpg
 
@@ -21,11 +21,11 @@ social:
     - icon: fa-twitter
       link: "https://twitter.com/agusmakmun6"
     - icon: fa-linkedin
-      link: "https://www.linkedin.com/in/summonagus"
+      link: "https://www.linkedin.com/in/coolsharp"
     - icon: fa-stack-exchange
       link: "#"
     - icon: fa-github
-      link: "https://github.com/agusmakmun"
+      link: "https://github.com/coolsharp"
 
 share:
   twitter_username: agusmakmun6
@@ -39,7 +39,7 @@ urls:
     - text: XML Feed
       url: /feed.xml
 
-url: "https://agusmakmun.github.io"
+url: "https://coolsharp.github.io"
 baseurl: ""
 paginate: 20
 per_page: 20
