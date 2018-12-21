@@ -60,3 +60,18 @@ publish {
 terminal에서 ./gradlew clean build bintrayUpload -PbintrayUser=[사용자 이름] -PbintrayKey=[API KEY] -PdryRun=false와 같이 입력한다.
 
 정상적으로 빌드가 되었다면 등록이 잘 된 것이다.
+
+```	
+ allprojects {	
+     repositories {	
+         ...	
+         maven {	
+             url  "https://dl.bintray.com/your-bintray-username/maven"	
+         }	
+     }	
+ }	
+```	
+ 
+```	
+ implementation 'com.coolsharp.animationclock:animation-clockview:0.1'	
+```
