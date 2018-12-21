@@ -24,11 +24,11 @@ https://bintray.com/로 이동하여 가입을 한다.(가입 등의 설명은 �
 
 일반적으로 maven으로 생성한다.<br>
 
-![레파지토리 생성](https://github.com/coolsharp/coolsharp.github.io/raw/master/assets/android_jcenter_01.png)
+![레파지토리 생성](https://github.com/coolsharp/coolsharp.github.io/raw/master/static/img//android_jcenter_01.png)
 
 API 키를 확인한다.
 
-![API 키 확인](https://github.com/coolsharp/coolsharp.github.io/raw/master/assets/android_jcenter_02.png)
+![API 키 확인](https://github.com/coolsharp/coolsharp.github.io/raw/master/static/img/android_jcenter_02.png)
 
 ## Android Studio 라이브러리에 bintray 설정
 안드로이드 스튜디오 라이브러리로 이동한다.
