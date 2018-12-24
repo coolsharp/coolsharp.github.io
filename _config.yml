@@ -18,14 +18,16 @@ collections:
 social:
     - icon: fa-facebook
       link: "https://www.facebook.com/coolsharp.dev"
+    - icon: fa-github
+      link: "https://github.com/coolsharp"
+    - icon: fa-dribble
+      link: "https://dribbble.com/coolsharp"
     - icon: fa-twitter
       link: "https://twitter.com/coolsharp0"
     - icon: fa-linkedin
       link: "https://www.linkedin.com/in/균성-김-61051a117"
     - icon: fa-stack-exchange
       link: "https://stackoverflow.com/users/2698715/coolsharp"
-    - icon: fa-github
-      link: "https://github.com/coolsharp"
 
 share:
   twitter_username: coolsharp0
