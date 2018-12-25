@@ -9,8 +9,6 @@ categories: bintray jcenter android library maven
 안드로이드에서 자주 사용하는 기능을 모듈로 만들고 많은 사람들이 함께 이용할 수 있게 github에 배포를 할 수 있다.
 좀 더 나아가 소스코드 다운로드 없이 aar 파일을 gradle에서 한줄의 코드로 다운로드 및 빌드까지 되게 할 수 있다.
 
-<script src="https://gist.github.com/coolsharp/1aad148423502187b992f5189a742f6a.js"></script>
-
     implementation 'com.coolsharp.animationclockview:0.1'
 
 해당 기능일 여러사람이 쉽게 이용하게 하기위헤서는 jcenter에 업로드를 하는 방법이 있다.
@@ -26,38 +24,22 @@ https://bintray.com/로 이동하여 가입을 한다.(가입 등의 설명은 �
 
 일반적으로 maven으로 생성한다.<br>
 
-![레파지토리 생성](https://github.com/coolsharp/coolsharp.github.io/raw/master/static/img//android_jcenter_01.png)
+![레파지토리 생성](/static/img//android_jcenter_01.png)
 
 API 키를 확인한다.
 
-![API 키 확인](https://github.com/coolsharp/coolsharp.github.io/raw/master/static/img/android_jcenter_02.png)
+![API 키 확인](/static/img/android_jcenter_02.png)
 
 ## Android Studio 라이브러리에 bintray 설정
 안드로이드 스튜디오 라이브러리로 이동한다.
 
 Project(build.gradle)에 다음과 같이 classpath를 추가한다.
 
-```
-    dependencies {
-        classpath 'com.android.tools.build:gradle:3.2.1'
-        classpath 'com.novoda:bintray-release:0.9'
-    }
-```
+<script src="https://gist.github.com/coolsharp/3f3434a24adb1f300a354acdffaad985.js"></script>
+
 Module(build.gradle)에 다음과 같이 설정을 추가한다.
-```
-apply plugin: 'com.novoda.bintray-release'  
-  
-publish {  
-  userOrg = 'coolsharp' // 사용자 이름
-  groupId = 'com.coolsharp.animationclock' // 모듈 패키지 명
-  artifactId = 'animation-clockview' // 모듈 id
-  publishVersion = '0.1' // 버전
-  desc = 'https://github.com/coolsharp/AnimationClock'  
-  website = 'https://github.com/coolsharp/AnimationClock'  
-  issueTracker = "https://github.com/coolsharp/AnimationClockissues"  
-  repository = "https://github.com/coolsharp/AnimationClock.git"  
-}
-```
+
+<script src="https://gist.github.com/coolsharp/1aad148423502187b992f5189a742f6a.js"></script>
 
 terminal에서 ./gradlew clean build bintrayUpload -PbintrayUser=[사용자 이름] -PbintrayKey=[API KEY] -PdryRun=false와 같이 입력한다.
 
