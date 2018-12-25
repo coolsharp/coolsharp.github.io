@@ -7,6 +7,7 @@ categories: bintray jcenter android library maven
 
 ### 내가만든 라이브러리를 전세계 사람들과 공유하자
 안드로이드에서 자주 사용하는 기능을 모듈로 만들고 많은 사람들이 함께 이용할 수 있게 github에 배포를 할 수 있다.
+
 좀 더 나아가 소스코드 다운로드 없이 aar 파일을 gradle에서 한줄의 코드로 다운로드 및 빌드까지 되게 할 수 있다.
 
     implementation 'com.coolsharp.animationclockview:0.1'
@@ -45,7 +46,7 @@ terminal에서 ./gradlew clean build bintrayUpload -PbintrayUser=[사용자 이�
 
 정상적으로 빌드가 되었다면 등록이 잘 된 것이다.
 
-### 등록된 라이브러리를 사용하자
+## 등록된 라이브러리를 사용하자
 
 사용하는 방법은 아래와 같이 프로젝트 설정에 추가한다.
 
