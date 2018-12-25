@@ -45,6 +45,8 @@ terminal에서 ./gradlew clean build bintrayUpload -PbintrayUser=[사용자 이�
 
 정상적으로 빌드가 되었다면 등록이 잘 된 것이다.
 
+사용하는 방법은 아래와 같이 프로젝트 설정에 추가한다.
+
 ```	
  allprojects {	
      repositories {	
@@ -55,7 +57,9 @@ terminal에서 ./gradlew clean build bintrayUpload -PbintrayUser=[사용자 이�
      }	
  }	
 ```	
- 
+
+아래와 같이 implementation에 path를 추가한다.
+
 ```	
  implementation 'com.coolsharp.animationclock:animation-clockview:0.1'	
 ```
