@@ -10,7 +10,6 @@ categories: bintray jcenter android library maven
 좀 더 나아가 소스코드 다운로드 없이 aar 파일을 gradle에서 한줄의 코드로 다운로드 및 빌드까지 되게 할 수 있다.
 
 <script src="https://gist.github.com/coolsharp/1aad148423502187b992f5189a742f6a.js"></script>
-https://gist.github.com/1aad148423502187b992f5189a742f6a.git
 
     implementation 'com.coolsharp.animationclockview:0.1'
 
