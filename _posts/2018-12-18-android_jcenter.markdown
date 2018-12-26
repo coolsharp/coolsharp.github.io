@@ -19,8 +19,6 @@ implementation 'com.coolsharp.animationclockview:0.1'
 
 이 강좌는 안드로이드 라이브러리를 생성하는 방법은 기술하지 않는다.
 
-![자세한 설명은 생략한다](https://s3.namuwikiusercontent.com/s/2b38937bb1ead788420b12c0f2f31d441cfc8af59d3fba718c03085bd37cacece7eaae2bc0e47717d99177eb018bd48b66075acf90a58840228eeb6fa02eeca14a417ad7b69e8fb704c7bfe48ab5c4ae025bb61179548d65c52b8ae964ee6358)
-
 jcenter에 라이브러리를 빌드하여 업로드 하는 방법만 기술한다.
 
 여러가지 방법이 있지만 가장 간단한 방법은 bintray를 통해 maven 저장소로 배포하는 방법이다.
@@ -32,6 +30,8 @@ jcenter에 라이브러리를 빌드하여 업로드 하는 방법만 기술한�
 ## bintray 가입
 ___
 https://bintray.com/로 이동하여 가입을 한다.(가입 등의 설명은 생략한다.)
+
+![자세한 설명은 생략한다](https://s3.namuwikiusercontent.com/s/2b38937bb1ead788420b12c0f2f31d441cfc8af59d3fba718c03085bd37cacece7eaae2bc0e47717d99177eb018bd48b66075acf90a58840228eeb6fa02eeca14a417ad7b69e8fb704c7bfe48ab5c4ae025bb61179548d65c52b8ae964ee6358)
 
 <br>
 <center><h1>. . .</h1></center>
