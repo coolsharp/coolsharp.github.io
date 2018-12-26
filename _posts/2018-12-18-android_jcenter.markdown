@@ -11,7 +11,9 @@ ___
 
 좀 더 나아가 소스코드 다운로드 없이 아래와 같이 gradle에서 한줄의 코드로 aar 파일을 다운로드 후 빌드까지 되게 할 수 있다.
 
-    implementation 'com.coolsharp.animationclockview:0.1'
+```groovy
+implementation 'com.coolsharp.animationclockview:0.1'
+```
 
 해당 모듈을 오픈하여 다른 개발자들이 쉽게 이용할 수 있게 jcenter에 업로드를 하는 방법이 있다.
 
@@ -55,7 +57,7 @@ Module(build.gradle)에 다음과 같이 설정을 추가한다.
 <script src="https://gist.github.com/coolsharp/1aad148423502187b992f5189a742f6a.js"></script>
 
 terminal에서
-```
+```groovy
 ./gradlew clean build bintrayUpload -PbintrayUser=[사용자 이름] -PbintrayKey=[API KEY] -PdryRun=false
 ```
 와 같이 입력한다.
@@ -67,7 +69,7 @@ terminal에서
 ___
 사용하는 방법은 아래와 같이 프로젝트 설정에 추가한다.
 
-```	
+```groovy
  allprojects {	
      repositories {	
          ...	
@@ -80,6 +82,6 @@ ___
 
 아래와 같이 implementation에 path를 추가한다.
 
-```	
+```groovy
  implementation 'com.coolsharp.animationclock:animation-clockview:0.1'	
 ```
