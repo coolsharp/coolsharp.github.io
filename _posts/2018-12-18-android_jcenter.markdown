@@ -23,9 +23,11 @@ jcenter에 라이브러리를 빌드하여 업로드 하는 방법만 기술한�
 
 여러가지 방법이 있지만 가장 간단한 방법은 bintray를 통해 maven 저장소로 배포하는 방법이다.
 
+
 ## bintray 가입
 ___
 https://bintray.com/로 이동하여 가입을 한다.(가입 등의 설명은 생략한다.)
+
 
 ## maven 저장소 생성
 ___
@@ -38,6 +40,7 @@ ___
 API 키를 확인한다.
 
 ![API 키 확인](/static/img/android_jcenter_02.png)
+
 
 ## Android Studio 라이브러리에 bintray 설정
 ___
@@ -58,6 +61,7 @@ terminal에서
 와 같이 입력한다.
 
 정상적으로 빌드가 되었다면 등록이 잘 된 것이다.
+
 
 ## 등록된 라이브러리를 사용하자
 ___
