@@ -166,8 +166,6 @@ div.col-sm-3 img.profile-avatar {
   .fixed-condition {
     position: fixed;
     max-width: 255px;
-    height: 100%;
-    background-image: url("https://images.pexels.com/photos/1707825/pexels-photo-1707825.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260");
   }
 }
 @media (max-width: 768px) {
