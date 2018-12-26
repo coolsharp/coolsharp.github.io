@@ -25,7 +25,9 @@ jcenter에 라이브러리를 빌드하여 업로드 하는 방법만 기술한�
 
 여러가지 방법이 있지만 가장 간단한 방법은 bintray를 통해 maven 저장소로 배포하는 방법이다.
 
+<br>
 <center><h1>. . .</h1></center>
+<br>
 
 ## bintray 가입
 ___
