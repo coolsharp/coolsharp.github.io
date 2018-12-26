@@ -31,7 +31,7 @@ jcenter에 라이브러리를 빌드하여 업로드 하는 방법만 기술한�
 ___
 https://bintray.com/로 이동하여 가입을 한다.(가입 등의 설명은 생략한다.)
 
-![자세한 설명은 생략한다](static/img/gallery/image_001.jpg)
+![자세한 설명은 생략한다](/static/img/gallery/image_001.jpg)
 
 <br>
 <center><h1>. . .</h1></center>
@@ -43,11 +43,11 @@ ___
 
 일반적으로 maven으로 생성한다.<br>
 
-![레파지토리 생성](static/img/post/2018-12-18-android_jcenter/android_jcenter_01.png)
+![레파지토리 생성](/static/img/post/2018-12-18-android_jcenter/android_jcenter_01.png)
 
 API 키를 확인한다.
 
-![API 키 확인](static/img/post/2018-12-18-android_jcenter/android_jcenter_02.png)
+![API 키 확인](/static/img/post/2018-12-18-android_jcenter/android_jcenter_02.png)
 
 <br>
 <center><h1>. . .</h1></center>
