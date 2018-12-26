@@ -8,9 +8,9 @@ body {
   color: #666;
 }
 hr {
-  margin-top: 10px;
-  margin-bottom: 10px;
-  border: 0.2pt solid #777;
+  margin-top: 15px;
+  margin-bottom: 15px;
+  border: 0.2pt solid #777777;
 }
 span.time, span.categories {
   color: #ADADAD;
