@@ -89,7 +89,6 @@ div.col-sm-3 {
   margin-top: 0px;
   font-size: 11px;
   color: #666;
-  background-color: #FF0000
 }
 div.col-sm-3 strong {
   font-size: 16px;
@@ -167,6 +166,7 @@ div.col-sm-3 img.profile-avatar {
   .fixed-condition {
     position: fixed;
     max-width: 255px;
+    background-color: #FF0000
   }
 }
 @media (max-width: 768px) {
