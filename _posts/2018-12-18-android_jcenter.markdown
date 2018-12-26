@@ -57,7 +57,7 @@ Module(build.gradle)에 다음과 같이 설정을 추가한다.
 <script src="https://gist.github.com/coolsharp/1aad148423502187b992f5189a742f6a.js"></script>
 
 terminal에서
-```groovy
+```
 ./gradlew clean build bintrayUpload -PbintrayUser=[사용자 이름] -PbintrayKey=[API KEY] -PdryRun=false
 ```
 와 같이 입력한다.
