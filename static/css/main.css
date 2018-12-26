@@ -10,7 +10,7 @@ body {
 hr {
   margin-top: 10px;
   margin-bottom: 10px;
-  border: 1 solid #222222;
+  border: 1px solid #222222;
 }
 span.time, span.categories {
   color: #ADADAD;
