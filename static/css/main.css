@@ -1,7 +1,5 @@
-@import url(http://fonts.googleapis.com/earlyaccess/nanumgothiccoding.css);
-
 body {
-  font-family: 'Nanum Gothic Coding', serif;
+  font-family: Arial, sans-serif;
   /* background: url("/static/img/common/background.png"); */
   background-color: #EEEEEE;
   line-height: 1.2em;
@@ -12,7 +10,9 @@ body {
 hr {
   margin-top: 15px;
   margin-bottom: 15px;
-  border: 0.5pt solid #aaaaaa;
+  border: 0px;
+  border-top: 1px solid #aaaaaa;
+  border-bottom: 0px;
 }
 span.time, span.categories {
   color: #ADADAD;
@@ -37,7 +37,7 @@ h3 {
 }
 a, a:link, a:active {
   text-decoration: none;
-  color: #9282f0;
+  color: #6567db;
 }
 a:hover {
   color: #B3B3B3;
@@ -51,10 +51,12 @@ a:hover {
 .sidebar-nav {
   margin: 0;
   padding: 0;
+  font-size: 16px;
 }
 .sidebar-nav li {
   margin: 0;
   list-style: none;
+  font-size: 16px;
 }
 .sidebar-nav li::before {
   content: "»";

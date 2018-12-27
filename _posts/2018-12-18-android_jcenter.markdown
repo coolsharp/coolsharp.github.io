@@ -17,11 +17,9 @@ implementation 'com.coolsharp.animationclockview:0.1'
 
 해당 모듈을 오픈하여 다른 개발자들이 쉽게 이용할 수 있게 jcenter에 업로드를 하는 방법이 있다.
 
-이 강좌는 안드로이드 라이브러리를 생성하는 방법은 기술하지 않는다.
+이 강좌는 안드로이드 라이브러리를 생성하는 방법은 기술하지 않고 jcenter에 라이브러리 업로드 하는 방법에 대해 기술한다.
 
-jcenter에 라이브러리를 빌드하여 업로드 하는 방법만 기술한다.
-
-여러가지 방법이 있지만 가장 간단한 방법은 bintray를 통해 maven 저장소로 배포하는 방법이다.
+공유 저장소를 이요하는 방법에는 여러가지가 있지만 그 중 bintray를 통해 maven 저장소로 배포하는 방법이다.
 
 <br>
 <center><h1>. . .</h1></center>
@@ -29,7 +27,9 @@ jcenter에 라이브러리를 빌드하여 업로드 하는 방법만 기술한�
 
 ## bintray 가입
 ___
-https://bintray.com/로 이동하여 가입을 한다.(가입 등의 설명은 생략한다.)
+https://bintray.com/로 이동하여 가입을 한다.
+
+가입절차는 매우 쉬으므로 설명은 생략한다.
 
 ![자세한 설명은 생략한다](/static/img/gallery/image_001.jpg)
 
@@ -39,9 +39,9 @@ https://bintray.com/로 이동하여 가입을 한다.(가입 등의 설명은 �
 
 ## maven 저장소 생성
 ___
-레퍼지토리를 생성해야 한다.
+가입이 완료되었다면 로그인 후 레퍼지토리를 생성한다.
 
-일반적으로 maven으로 생성한다.<br>
+일반적으로 레파지토리 명은 maven으로 한다.<br>
 
 ![레파지토리 생성](/static/img/post/2018-12-18-android_jcenter/android_jcenter_01.png)
 

@@ -30,6 +30,8 @@ social:
       link: "https://www.linkedin.com/in/균성-김-61051a117"
     - icon: fa-stack-exchange
       link: "https://stackoverflow.com/users/2698715/coolsharp"
+    - icon: fa-rss
+      link: "/feed.xml"
 
 share:
   twitter_username: coolsharp0
