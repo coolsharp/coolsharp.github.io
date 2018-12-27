@@ -6,6 +6,7 @@
 input#js-search__input {
   font-size: 12px;
   font-family: Arial, sans-serif;
+  width:90%;
 }
 .is-active .search__input {
   transform: translateY(0);
