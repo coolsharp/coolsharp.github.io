@@ -27,9 +27,7 @@ implementation 'com.coolsharp.animationclockview:0.1'
 
 ## bintray 가입
 ___
-https://bintray.com/로 이동하여 가입을 한다.
-
-가입절차는 매우 쉬으므로 설명은 생략한다.
+https://bintray.com/로 이동하여 가입을 한다.(가입절차는 매우 쉬으므로 설명은 생략한다.)
 
 ![자세한 설명은 생략한다](/static/img/gallery/image_001.jpg)
 
