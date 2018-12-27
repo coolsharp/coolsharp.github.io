@@ -1,7 +1,5 @@
-@import url(http://fonts.googleapis.com/earlyaccess/nanumgothiccoding.css);
-
 body {
-  font-family: 'Nanum Gothic Coding', serif;
+  font-family: 'NotoSansKR', sans-serif;
   /* background: url("/static/img/common/background.png"); */
   background-color: #EEEEEE;
   line-height: 1.2em;
