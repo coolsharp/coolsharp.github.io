@@ -167,6 +167,7 @@ div.col-sm-3 img.profile-avatar {
 @media (min-width: 1024px) {
   .fixed-condition {
     position: fixed;
+    width: 255px;
     max-width: 255px;
   }
 }
