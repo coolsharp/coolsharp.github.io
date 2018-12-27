@@ -18,3 +18,7 @@ Google Play에 개발한 앱을 등록할 때 APK 최대 제한 용량은 100Mb 
 그렇다면 수많은 Gb 용량의 앱은 어떻게 구글 플레이에 게시가 되었을까?
 
 그 해답은 [google play apk extensions library](https://support.google.com/googleplay/android-developer/answer/2481797?hl=ko)를 이용하면 된다.
+
+<br>
+<center><h1>. . .</h1></center>
+<br>
