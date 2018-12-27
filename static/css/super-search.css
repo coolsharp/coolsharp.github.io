@@ -27,7 +27,7 @@ input#js-search__input {
 }
 .search__results > li > a {
   display: block;
-  padding: 10px;
+  padding: 5px;
 }
 .search__result-date {
   color: #BBB;
