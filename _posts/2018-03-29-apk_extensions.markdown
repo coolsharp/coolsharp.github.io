@@ -5,7 +5,7 @@ date:   2018-03-29 06:00:00 +0900
 categories: android
 ---
 
-## Google Play APK Extensions 적용
+## 100Mb 용량을 초과하는 앱을 개발하였다면...
 ___
 Google Play에 개발한 앱을 등록할 때 APK 최대 제한 용량은 100Mb 이다.
 
@@ -13,7 +13,7 @@ Google Play에 개발한 앱을 등록할 때 APK 최대 제한 용량은 100Mb 
 
 실제 앱을 개발하다보면 리소스가 많이 추가되는 경우가 있고 해당 경우에는 100Mb를 넘길 수도 있다.
 
-100Mb의 크기가 넘는 구글 플레이에 등록을 못하는 것일까?
+100Mb의 크기가 넘는 APK는 구글 플레이에 등록을 못하는 것일까?
 
 그렇다면 수많은 Gb 용량의 앱은 어떻게 구글 플레이에 게시가 되었을까?
 
@@ -22,3 +22,6 @@ Google Play에 개발한 앱을 등록할 때 APK 최대 제한 용량은 100Mb 
 <br>
 <center><h1>. . .</h1></center>
 <br>
+
+## Google Play APK Extensions 적용
+___
