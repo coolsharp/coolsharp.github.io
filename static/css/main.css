@@ -1,5 +1,7 @@
+@import url(http://fonts.googleapis.com/earlyaccess/nanumgothiccoding.css);
+
 body {
-  font-family: "Roboto Condensed", Arial, sans-serif;
+  font-family: 'Nanum Gothic Coding', serif;
   /* background: url("/static/img/common/background.png"); */
   background-color: #EEEEEE;
   line-height: 1.2em;
@@ -35,7 +37,7 @@ h3 {
 }
 a, a:link, a:active {
   text-decoration: none;
-  color: #6567db;
+  color: #9282f0;
 }
 a:hover {
   color: #B3B3B3;
