@@ -25,3 +25,5 @@ Google Play에 개발한 앱을 등록할 때 APK 최대 제한 용량은 100Mb 
 
 ## Google Play APK Extensions 적용
 ___
+Google Play APK Extensions를 적용하는 방법에 대해 알아보자.
+
