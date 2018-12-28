@@ -183,5 +183,5 @@ div.col-sm-3 img.profile-avatar {
 
 .fb_iframe_widget span 
 {
-    vertical-align: baseline !important;
+    vertical-align: top !important;
 }
