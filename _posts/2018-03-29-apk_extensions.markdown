@@ -36,7 +36,7 @@ ___
 <center><h1>. . .</h1></center>
 <br>
 
-## 1. 환경구성
+### 1. 환경구성
 ___
 Android Studio에 `Google Play APK Extensions library`를 설치하자.
 
