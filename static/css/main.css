@@ -181,9 +181,7 @@ div.col-sm-3 img.profile-avatar {
   }
 }
 
-.social iframe {
-  vertical-align: middle;
-  }
-  .social div span {
-  vertical-align:middle !important;
-  }
+.fb_iframe_widget span 
+{
+    vertical-align: baseline !important;
+}
