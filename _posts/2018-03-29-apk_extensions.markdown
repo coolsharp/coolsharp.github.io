@@ -41,3 +41,31 @@ ___
 Android Studio에 `Google Play APK Extensions library`를 설치하자.
 
 ![레파지토리 생성](/static/img/post/2018-03-29-apk_extensions/image01.png)
+
+<br>
+<center><h1>. . .</h1></center>
+<br>
+
+### 2. 코드작성
+___
+
+<br>
+<center><h1>. . .</h1></center>
+<br>
+
+### 3. 테스트
+___
+
+<br>
+<center><h1>. . .</h1></center>
+<br>
+
+### 4. 배포
+___
+
+<br>
+<center><h1>. . .</h1></center>
+<br>
+
+### 5. 다운로드
+___
