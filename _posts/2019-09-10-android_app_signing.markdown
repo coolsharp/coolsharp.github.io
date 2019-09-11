@@ -23,7 +23,7 @@ categories: android library
 
 <h3 align="center">. . .</h3>
 
-### 기존 앱 사이닝 등록하기
+### 구글 앱 사이닝 등록하기
 
 ##### 1단계: Google Play 앱 서명 등록
 
