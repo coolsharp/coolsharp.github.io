@@ -13,7 +13,7 @@ categories: android library
 
 <h3 align="center">. . .</h3>
 
-### 기존 앱 관리 개념
+### 구글 플레이 앱 사이닝 관리
 
 ![9ac5ff19.png](/static/img/post/2019-09-10-android_app_signing/9ac5ff19.png)
 
@@ -23,7 +23,7 @@ categories: android library
 
 <h3 align="center">. . .</h3>
 
-### 구글 앱 사이닝 등록하기
+### 기존 앱 사이닝 등록하기
 
 ##### 1단계: Google Play 앱 서명 등록
 
