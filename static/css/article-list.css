@@ -4,18 +4,14 @@ article{
 }
 article header{
     text-decoration: none;
-    text-transform: uppercase;
-    letter-spacing: 2px;
     margin-bottom: 1em;
     margin-left: 5px;
     line-height: 1em;
-    text-shadow: 0 1px #fff;
-    font-weight: bold;
     display: block;
 }
 
 article header a{
-    color: #666;
+    color: #FFF;
 }
 
 article .module {
