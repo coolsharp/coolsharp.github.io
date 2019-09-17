@@ -116,9 +116,11 @@
 .content-navigation a:hover {color: #99b;}	/* 鼠标移动到链接上 */
 .content-navigation a:active {color: #99b}	/* 选定的链接 */
 
-.content-navigation{
-    max-width: 292px;
-    padding-left: 30px;
+.content-navigation {
+    padding-left: 0px;
+    padding-right: 0px;
+    padding-top: 10px;
+    width: 100%;
 }
 .content-navigation-header {
     display: block;
