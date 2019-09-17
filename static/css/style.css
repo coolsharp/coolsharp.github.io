@@ -270,3 +270,17 @@ h2, .h2 {
 h3, .h3 {
     font-size: 16px;
 }
+
+.container {
+    width: 1000px;
+}
+
+@media (min-width: 1000px)
+.col-lg-offset-1_5 {
+    margin-left: 0%;
+}
+
+@media (min-width: 1000px)
+.col-lg-9 {
+    width: 100%;
+}
