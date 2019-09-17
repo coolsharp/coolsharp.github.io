@@ -33,9 +33,9 @@ github:
 swiftype:
   searchId: iXZyPokVfxFaBTvi64Y6
 gitment:
-    repo: blog
-    client_id: a6fb73b3e790e234bab8
-    client_secret: cc10aaff53a03d05ab2ee002dbf401dd7627c7a3
+    repo: coolsharp.github.io
+    client_id: 705b2f295798be3037fb
+    client_secret: 3cfa41cb93821e5e06a6a02fc085d11c8a8c325b
 
 url: "https://coolsharp.github.io"
 imgrepo: "https://coolsharp.github.io/static/img"
