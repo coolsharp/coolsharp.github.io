@@ -218,7 +218,7 @@
  .banner h3{
      line-height: 1.5;
 }
- @media screen and (max-width: 767px) {
+ @media screen and (max-width: 900px) {
      .banner h1{
          font-size: 36px;
     }
@@ -229,6 +229,6 @@
  h3, .h3 {
      font-size: 16px;
 }
- .container (max-width: 767px) {
+ .container (max-width: 900px) {
      width: 100%;
 }
