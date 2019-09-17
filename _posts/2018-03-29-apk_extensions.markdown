@@ -2,6 +2,7 @@
 layout: post
 title:  "Google Play APK Extensions"
 date:   2018-03-29 06:00:00 +0900
+tags: android apkexcensions
 categories: android
 ---
 

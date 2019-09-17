@@ -2,6 +2,7 @@
 layout: post
 title:  "Android App Siging"
 date:   2019-09-10 16:00:00 +0900
+tags: android app_siging
 categories: android library
 ---
 
