@@ -205,10 +205,15 @@ a:active {text-decoration: none}	/* 选定的链接 */
 }
 
 
-@media (min-width: 1200px){
+@media (min-width: 1000px){
     .col-lg-offset-1_5 {
-        margin-left: 12.5%;
+        margin-left: 0%;
     }
+}
+
+@media (min-width: 1000px)
+.col-lg-9 {
+    width: 100%;
 }
 
 .pad-min,
@@ -273,14 +278,4 @@ h3, .h3 {
 
 .container {
     width: 1000px;
-}
-
-@media (min-width: 1000px)
-.col-lg-offset-1_5 {
-    margin-left: 0%;
-}
-
-@media (min-width: 1000px)
-.col-lg-9 {
-    width: 100%;
 }
