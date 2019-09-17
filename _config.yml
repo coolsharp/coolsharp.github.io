@@ -1,63 +1,46 @@
-title: coolsharp
-description: coolsharp blog
-author: coolsharp
-github: https://github.com/coolsharp
-about: 다양한 개발에 관심이 많은 developer
-disqus_shortname: coolsharp
-google_analytics: UA-XXXXXXXX-Y
-avatar_url: /static/img/common/coolsharp.png
+permalink: /:categories/:title/
 
-enableTags: true
-tagarray: []
-
-collections:
-  project:
-    output: true
-    permalink: /project/:path/
-
-social:
-    - icon: fa-facebook
-      link: "https://www.facebook.com/coolsharp.dev"
-    - icon: fa-github
-      link: "https://github.com/coolsharp"
-    - icon: fa-dribbble
-      link: "https://dribbble.com/coolsharp"
-    - icon: fa-deviantart
-      link: "https://www.deviantart.com/coolsharp"
-    - icon: fa-twitter
-      link: "https://twitter.com/coolsharp0"
-    - icon: fa-linkedin
-      link: "https://www.linkedin.com/in/균성-김-61051a117"
-    - icon: fa-stack-exchange
-      link: "https://stackoverflow.com/users/2698715/coolsharp"
-    - icon: fa-rss
-      link: "/feed.xml"
-
-share:
-  twitter_username: coolsharp0
-  fb_appid: 2115926495138776
-
-urls:
-    - text: About Me
-      url: /about/
-    - text: My Projects
-      url: /projects/
-    - text: XML Feed
-      url: /feed.xml
-
-url: "https://coolsharp.github.io"
-baseurl: ""
-paginate: 20
-per_page: 20
-paginate_path: "/page/:num/"
+highlighter: rouge
 markdown: kramdown
-gems:
-  - jekyll-paginate
-  - jekyll-gist
+kramdown:
+  input:  GFM
+  syntax_highlighter: rouge
 
-compress_html:
-  clippings: all
-  comments: ["<!-- ", " -->"]
-  endings: all
-  ignore:
-    envs: ['development']
+
+paginate: 10
+paginate_path: "page/:num"
+baseurl: ""
+
+
+
+defaults:
+  -
+    scope:
+      path: ""
+      type: posts
+    values:
+      layout: post
+      styles : [highlight.css,gitment.css,post.css]
+      scripts : [gitment.js, post.js]
+
+
+
+title: "bit-ranger"
+email: sincerebravefight@gmail.com
+description: ""
+github:
+  username: bit-ranger
+swiftype:
+  searchId: iXZyPokVfxFaBTvi64Y6
+gitment:
+    repo: blog
+    client_id: a6fb73b3e790e234bab8
+    client_secret: cc10aaff53a03d05ab2ee002dbf401dd7627c7a3
+
+url: "https://bit-ranger.github.io/blog"
+imgrepo: "https://bit-ranger.github.io/blog/static/img"
+
+
+#url: "http://127.0.0.1:4000"
+#imgrepo: "http://127.0.0.1:4000/static/img"
+
