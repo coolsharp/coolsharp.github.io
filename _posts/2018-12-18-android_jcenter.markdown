@@ -29,7 +29,7 @@ implementation 'com.coolsharp.animationclockview:0.1'
 ___
 https://bintray.com/로 이동하여 가입을 한다.(가입절차는 매우 쉬으므로 설명은 생략한다.)
 
-![자세한 설명은 생략한다](/static/img/gallery/image_001.jpg)
+![자세한 설명은 생략한다](/static/img/post/2018-12-18-android_jcenter/image.jpg)
 
 <br>
 <center><h1>. . .</h1></center>
