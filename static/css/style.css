@@ -76,11 +76,10 @@
      margin: 0px 0px 0px 0px;
 }
  body {
-     background-image: url({
+     background-image: url(
         {
              "/static/bg.png" | prepend: site.baseurl | prepend: site.url 
         }
-    }
     );
      height: 100%;
      padding: 0px 0px 0px 0px;
