@@ -41,15 +41,14 @@ article .title{
 
 article .readmore{
     display: inline-block;
+    font-size: 0.8em;
     line-height: 1em;
-    padding: 6px 15px;
-    -webkit-border-radius: 15px;
-    border-radius: 15px;
+    padding: 6px 10px;
+    border-radius: 5px;
     background: #eee;
     color: #999;
     text-shadow: 0 1px #fff;
     text-decoration: none;
-    margin-top: 10px;
     margin-bottom: 10px;
 }
 article .readmore:hover{
