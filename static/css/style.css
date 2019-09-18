@@ -229,8 +229,8 @@
  h3, .h3 {
      font-size: 14px;
 }
- .container (max-width: 767px) {
-     width: 100px;
+.container {
+     width: 800px;
 }
 h1, .h1, h2, .h2, h3, .h3 {
     margin-top: 10px;
