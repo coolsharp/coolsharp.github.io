@@ -18,7 +18,7 @@ article .module {
     position: relative;
     width: 100%;
     overflow: hidden;
-    padding: 25px;
+    padding: 16px;
     border-bottom: 1px solid #b1b1b1;
     background: #f8f8fd;
 
@@ -29,7 +29,7 @@ article .module {
     border-radius: 0px 30px 0px 30px;
 }
 article .title{
-    font-size: 1.6em;
+    font-size: 1.3em;
     font-weight: 500;
     display: block;
     margin-bottom: 10px;
