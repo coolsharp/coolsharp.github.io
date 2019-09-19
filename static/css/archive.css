@@ -79,7 +79,7 @@ Main components
 
 .cd-timeline-img {
     position: absolute;
-    top: 0;
+    top: 2px;
     left: 0;
     width: 40px;
     height: 40px;
@@ -88,16 +88,16 @@ Main components
 }
 .cd-timeline-img img {
     display: block;
-    width: 24px;
-    height: 24px;
+    width: 32px;
+    height: 32px;
     position: relative;
     left: 50%;
     top: 50%;
-    margin-left: -12px;
-    margin-top: -12px;
+    margin-left: -16px;
+    margin-top: -16px;
 }
 .cd-timeline-img.cd-picture {
-    background: #efbd68;
+    background: #cddc39;
 }
 .cd-timeline-img.cd-movie {
     background: #c03b44;
@@ -107,10 +107,10 @@ Main components
 }
 @media only screen and (min-width: 1170px) {
     .cd-timeline-img {
-        width: 40px;
-        height: 40px;
+        width: 48px;
+        height: 48px;
         left: 50%;
-        margin-left: -20px;
+        margin-left: -24px;
         /* Force Hardware Acceleration in WebKit */
         -webkit-transform: translateZ(0);
         -webkit-backface-visibility: hidden;
@@ -129,10 +129,12 @@ Main components
 .cd-timeline-content {
     position: relative;
     margin-left: 60px;
-    background: white;
+    background: #CDDC39;
     border-radius: 0.25em;
     padding: 1em;
-    box-shadow: 0 3px 0 #d7e4ed;
+    border-color: black;
+    line-height: 10px
+    /* box-shadow: 0 3px 0 #d7e4ed; */;
 }
 .cd-timeline-content:after {
     content: "";
@@ -176,7 +178,7 @@ a.cd-read-more:hover{text-decoration:none; background-color: #424242;  }
     height: 0;
     width: 0;
     border: 7px solid transparent;
-    border-right: 7px solid white;
+    border-right: 7px solid #fffbe4;
 }
 @media only screen and (min-width: 768px) {
     .cd-timeline-content p {
@@ -191,12 +193,13 @@ a.cd-read-more:hover{text-decoration:none; background-color: #424242;  }
         margin-left: 0;
         padding: 0.5em;
         width: 45%;
+        text-align:right
     }
     .cd-timeline-content::before {
-        top: 14px;
+        top: 20px;
         left: 100%;
         border-color: transparent;
-        border-left-color: white;
+        border-left-color: #8BC34A;
     }
     .cd-timeline-content .cd-read-more {
         float: left;
@@ -210,13 +213,14 @@ a.cd-read-more:hover{text-decoration:none; background-color: #424242;  }
     }
     .cd-timeline-block:nth-child(even) .cd-timeline-content {
         float: right;
+        text-align:left
     }
     .cd-timeline-block:nth-child(even) .cd-timeline-content::before {
-        top: 14px;
+        top: 20px;
         left: auto;
         right: 100%;
         border-color: transparent;
-        border-right-color: white;
+        border-right-color: #CDDC39;
     }
     .cd-timeline-block:nth-child(even) .cd-timeline-content .cd-read-more {
         float: right;
