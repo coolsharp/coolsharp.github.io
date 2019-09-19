@@ -199,7 +199,7 @@ a.cd-read-more:hover{text-decoration:none; background-color: #424242;  }
         top: 20px;
         left: 100%;
         border-color: transparent;
-        border-left-color: #8BC34A;
+        border-left-color: #CDDC39;
     }
     .cd-timeline-content .cd-read-more {
         float: left;
