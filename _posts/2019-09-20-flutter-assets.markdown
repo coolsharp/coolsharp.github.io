@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Flutter assets 관리"
-date:   2019-09-10 16:00:00 +0900
+date:   2019-09-20 12:00:00 +0900
 tags: flutter assets
 categories: flutter
 ---
@@ -24,6 +24,7 @@ categories: flutter
 
 #### 3. pubspec.yaml에 assets 설정
 - pubspec.yaml에 아래와 같이 폴더 지정
+
 ```java
 flutter:
 
@@ -33,6 +34,7 @@ flutter:
 ```
 
 - 또는 파일별 지정 가능
+
 ```java
   assets:
     - assets/img/coolsharp.png
