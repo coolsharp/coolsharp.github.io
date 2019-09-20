@@ -32,7 +32,6 @@ categories: flutter
 
 	  assets:
 	    - assets/img/
-
 	```
 
 - 또는 파일별 지정 가능
@@ -40,7 +39,6 @@ categories: flutter
   ```
     assets:
       - assets/img/coolsharp.png
-
   ```
 
 <h3 align="center">. . .</h3>
