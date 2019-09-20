@@ -36,7 +36,7 @@ categories: flutter
 
 #### 3. 코드에 WebView 추가
 
-  ```java
+  ```dart
   import 'package:webview_flutter/webview_flutter.dart';
   ...
   body: new WebView(
