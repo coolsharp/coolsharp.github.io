@@ -12,7 +12,7 @@ categories: flutter
 
 #### 1. Asserts 폴더 생성
 - Asserts 폴더는 아래위치에 생성
-```java
+```text
 프로젝트 폴더 \ assets
 ```
 <h3 align="center">. . .</h3>
