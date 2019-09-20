@@ -19,7 +19,7 @@ categories: flutter
 
 <h3 align="center">. . .</h3>
 
-#### 2. Asserts 폴더 생성
+#### 2. Asserts 파일 추가
 - Asserts 폴더 하위에 원하는 파일 추가
 
 <h3 align="center">. . .</h3>
