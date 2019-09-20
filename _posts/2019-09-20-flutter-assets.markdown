@@ -24,7 +24,6 @@ categories: flutter
 
 #### 3. pubspec.yaml에 assets 설정
 - pubspec.yaml에 아래와 같이 폴더 지정
-
 ```java
 flutter:
 
@@ -34,7 +33,6 @@ flutter:
 ```
 
 - 또는 파일별 지정 가능
-
 ```java
   assets:
     - assets/img/coolsharp.png
