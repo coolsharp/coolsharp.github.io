@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Android App Siging"
+title:  "Flutter assets 관리"
 date:   2019-09-10 16:00:00 +0900
 tags: flutter assets
 categories: flutter
