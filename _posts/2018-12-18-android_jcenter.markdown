@@ -3,7 +3,7 @@ layout: post
 title:  "Android lib jcenter 업로드"
 date:   2018-12-18 16:00:00 +0900
 tags: android jcenter library
-categories: android library
+categories: android
 ---
 
 ## 내가만든 라이브러리를 전세계 사람들과 공유하자

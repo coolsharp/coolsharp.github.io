@@ -3,7 +3,7 @@ layout: post
 title:  "Android App Siging"
 date:   2019-09-10 16:00:00 +0900
 tags: android app_siging
-categories: android library
+categories: android
 ---
 
 ## 안드로이드 앱 사이닝 구글 플레이에서 관리
