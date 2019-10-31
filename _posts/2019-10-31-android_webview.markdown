@@ -161,7 +161,8 @@ HTML 코드를 작성합니다.
 
 ##### 자바스크립트에서 @JavaScriptinterface 추가하지 않은 네이티브 메소드 실행
 ![자바스크립트에서 @JavaScriptinterface 추가하지 않은 네이티브 메소드 실행](/static/img/post/2019-10-31-android_webview/02.gif)
-접근할 수 없는 메소드 호출 시 아래와 같은 오류 발생
+<br>
+접근ㄱ 수 없는 메소드 호출 시 아래와 같은 오류 발생
 [INFO:CONSOLE(12)] "Uncaught TypeError: WebViewCallbackInterface.appToWebViewNative is not a function", source: file:///android_asset/sample.html (12)
 
 <h3 align="center">. . .</h3>
