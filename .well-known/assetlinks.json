@@ -1,5 +1,5 @@
 [{
   "relation": ["delegate_permission/common.handle_all_urls"],
-  "target" : { "namespace": "android_app", "package_name": "com.coolsharp.whitenoise.place",
-               "sha256_cert_fingerprints": ["B4:C4:D9:2E:45:88:AA:25:D4:EF:B2:07:BD:57:87:D6:05:B0:99:8F:0B:BF:6D:74:2E:DC:65:B3:19:CE:D4:01"] }
+  "target" : { "namespace": "android_app", "package_name": "com.coolsharp.test",
+               "sha256_cert_fingerprints": ["3F:76:42:93:B1:B1:6F:03:89:37:87:01:F7:E7:7C:78:74:AF:BA:15:B4:8D:57:43:BD:37:E6:35:5F:A5:49:E8"] }
 }]
