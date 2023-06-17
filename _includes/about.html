@@ -1,0 +1,75 @@
+<!-- About -->
+{% if site.locale and site.locale != "" and site.locale != nil %}
+<section class="page-section" id="{{ site.data.sitetext[site.locale].about.section | default: "about" }}">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-12 text-center">
+        <h2 class="section-title text-uppercase">{{ site.data.sitetext[site.locale].about.title | default: "About Me" }}</h2>
+        <h3 class="section-subheading text-muted">{{ site.data.sitetext[site.locale].about.text | default: "" }}</h3>
+      </div>
+    </div>
+    <div class="row d-flex justify-content-center">
+    {% for profile in site.data.sitetext[site.locale].about.profile %}
+    <div class="col-sm-4">
+      <div class="team-member">
+      <img class="mx-auto rounded-circle" src="{{ profile.image }}" alt="">
+      <h4>{{ profile.name }}</h4>
+      <p class="text-muted">{{ profile.role }}</p>
+      <ul class="list-inline social-buttons">
+      {% for network in profile.social %}
+        <li class="list-inline-item">
+        <a href="{{ network.url }}">
+          <i class="{{ network.icon }}"></i>
+        </a>
+        </li>
+      {% endfor %}
+      </ul>
+      </div>
+    </div>
+    {% endfor %}
+    </div>
+    <div class="row">
+      <div class="col-lg-8 mx-auto text-justify">
+        <div class="large text-muted">{{ site.data.sitetext[site.locale].about.body | markdownify }}</div>
+      </div>
+    </div>
+  </div>
+</section>
+{% else %}
+<section class="page-section" id="{{ site.data.sitetext.about.section | default: "about" }}">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-12 text-center">
+        <h2 class="section-title text-uppercase">{{ site.data.sitetext.about.title | default: "About Us" }}</h2>
+        <h3 class="section-subheading text-muted">{{ site.data.sitetext.about.text | default: "" }}</h3>
+      </div>
+    </div>
+	  <div class="row d-flex justify-content-center">
+	  {% for profile in site.data.sitetext.about.profile %}
+		<div class="col-sm-4">
+		  <div class="team-member">
+			<img class="mx-auto rounded-circle" src="{{ profile.image }}" alt="">
+			<h4>{{ profile.name }}</h4>
+			<p class="text-muted">{{ profile.role }}</p>
+			<ul class="list-inline social-buttons">
+			{% for network in profile.social %}
+			  <li class="list-inline-item">
+				<a href="{{ network.url }}">
+				  <i class="{{ network.icon }}"></i>
+				</a>
+			  </li>
+			{% endfor %}
+			</ul>
+		  </div>
+		</div>
+	  {% endfor %}
+	  </div>
+    <div class="row">
+      <div class="col-lg-8 mx-auto text-justify">
+        <div class="large text-muted">{{ site.data.sitetext.about.body | markdownify }}</div>
+      </div>
+    </div>
+  </div>
+</section>
+{% endif %}
+<!-- End About -->

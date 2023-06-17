@@ -1,0 +1,103 @@
+<!-- Portfolio Modals -->
+{% for project in site.portfolio reversed %}
+{% if site.locale and site.locale != "" and site.locale != nil %}
+<div class="portfolio-modal modal fade" id="p{{ forloop.index }}" tabindex="-1" role="dialog" aria-hidden="true">
+  <div class="modal-dialog modal-dialog-centered" role="document">
+    <div class="modal-content">
+      <h2 class="item-title">{{ project.title }}</h2>
+      <div class="close-modal" data-dismiss="modal">
+        <div class="lr">
+          <div class="rl"></div>
+        </div>
+      </div>
+      <div class="container">
+        <div class="row">
+          <div class="col-lg-10 mx-auto">
+            <div class="modal-body">
+              <!-- Project Details Go Here -->
+              <!-- <h5>{{ project.imagetitle }}</h5> -->
+              {% for image in project.images %}
+              <img class="img-fluid d-block mx-auto" src="{{ image.src }}" alt="{{ image.alt }}" />
+              {% endfor %}
+              <h5 class="title-margin">{{ project.projecttitle }}</h5>
+              <p class="text-muted">{{ project.project }}</p>
+              <h5 class="title-margin">{{ project.roletitle }}</h5>
+              <p class="text-muted">{{ project.role }}</p>
+              <h5 class="title-margin">{{ project.skilltitle }}</h5>
+              {% for skill in project.skills %}
+              <div class="tag">{{ skill.title }}</div>
+              {% endfor %}
+              {% if project.datetitle %}
+              <h5 class="title-margin">{{ project.datetitle }}</h5>
+              <p class="text-muted">{{ project.startdate }} ~ {{ project.enddate }}</p>
+              {% endif %}
+              {% if project.linktitle %}
+              <h5 class="title-margin">{{ project.linktitle }}</h5>
+              <a href="{{ project.link }}" target="_blank">{{ project.link }}</a>
+              {% endif %}
+              <p class="title-margin">{{ project.content }}</p>
+              <center>
+                <button class="btn btn-primary title-margin" data-dismiss="modal" type="button">
+                  <i class="fas fa-times"></i>
+                  {{ site.data.sitetext[site.locale].portfolio.closebutton |
+                  default: "Close Project" }}
+                </button>
+              </center>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+{% else %}
+<div class="portfolio-modal modal fade" id="p{{ forloop.index }}" tabindex="-1" role="dialog" aria-hidden="true">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="close-modal" data-dismiss="modal">
+        <div class="lr">
+          <div class="rl"></div>
+        </div>
+      </div>
+      <div class="container">
+        <div class="row">
+          <div class="col-lg-10 mx-auto">
+            <div class="modal-body">
+              <!-- Project Details Go Here -->
+              <!-- <h5>{{ project.imagetitle }}</h5> -->
+              {% for image in project.images %}
+              <img class="img-fluid d-block mx-auto" src="{{ image.src }}" alt="{{ image.alt }}" />
+              {% endfor %}
+              <h5 class="title-margin">{{ project.projecttitle }}</h5>
+              <p class="text-muted">{{ project.project }}</p>
+              <h5 class="title-margin">{{ project.roletitle }}</h5>
+              <p class="text-muted">{{ project.role }}</p>
+              <h5 class="title-margin">{{ project.skilltitle }}</h5>
+              {% for skill in project.skills %}
+              <div class="tag">{{ skill.title }}</div>
+              {% endfor %}
+              {% if project.datetitle %}
+              <h5 class="title-margin">{{ project.datetitle }}</h5>
+              <p class="text-muted">{{ project.startdate }} ~ {{ project.enddate }}</p>
+              {% endif %}
+              {% if project.linktitle %}
+              <h5 class="title-margin">{{ project.linktitle }}</h5>
+              <a href="{{ project.link }}" target="_blank">{{ project.link }}</a>
+              {% endif %}
+              <p class="title-margin">{{ project.content }}</p>
+              <center>
+                <button class="btn btn-primary title-margin" data-dismiss="modal" type="button">
+                  <i class="fas fa-times"></i>
+                  {{ site.data.sitetext[site.locale].portfolio.closebutton |
+                  default: "Close Project" }}
+                </button>
+              </center>
+            </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+{% endif %}
+{% endfor %}
+<!-- End Portfolio Modals -->

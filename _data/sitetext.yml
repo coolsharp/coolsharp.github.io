@@ -1,0 +1,204 @@
+#
+# Work based on https://github.com/mmistakes/minimal-mistakes/blob/master/_data/ui-text.yml
+#
+# Configuration: Add to _config.yml
+# locale: "en-US"  [YOUR PREFERRED LOCALE]
+#
+# How to use:
+# {{ site.data.ui-text[site.locale].<var_name> | default: 'text' }}
+
+# English (default)
+# -----------------
+en: &DEFAULT_EN
+  header:
+    text: 반갑습니다!! 개발자 김균성 입니다.
+    title: 찾아와 주셔서 감사합니다. 😀
+    button: "Learn more about what I do"
+    buttonlink: "#about"
+
+  about:
+    title: "About Me"
+    text: ""
+    profile:
+      - name: "김균성"
+        role: "20년차 어플리케이션 개발자"
+        image: assets/img/profile/coolsharp_profile_02.png
+        social: #find more at https://fontawesome.com/icons
+          - url: https://www.facebook.com/coolsharp.dev
+            icon: fab fa-facebook-f
+          - url: https://linkedin.com
+            icon: fab fa-linkedin-in
+          - url: https://dribbble.com/coolsharp
+            icon: fab fa-dribbble
+          - url: https://www.deviantart.com/coolsharp
+            icon: fab fa-deviantart
+          - url: https://coolsharp.blogspot.com/
+            icon: fab fa-blogger-b
+    body: "다양한 개발 현장에서 20년 이상의 경력을 쌓아온 개발자입니다.
+           개발에 대한 열정과 끊임없는 도전으로 다양한 프로젝트를 수행하며 경험을 쌓아왔습니다.
+           쇼셜 커머스 위메프에서 모바일앱개발 그룹장 역할을 수행하여 앱 개발의 전반적인 공정(기획 검토, 개발 업무 분장, API 협의, 디자인 협의, 개발 구조 정리 및 결정, 전체 일정 관리 및 QA / 배포 및 모니터링)을 총괄하였습니다.
+           저는 협업을 중요시하며, 개발, 기획, 디자이너들과 일하며, 서로의 아이디어를 공유하고 의견을 조율하여 더 나은 결과물을 만들어내기 위해 노력합니다.
+           또한, 사용자를 위한 기능과 디자인을 고민하여 개발을 진행하고, 유저 피드백을 수용하여 서비스를 지속적으로 개선하는것을 좋아합니다.
+           저는 끊임없이 도전하며 성장하는 개발자가 되기 위해 노력하고 있습니다."
+    section: about
+
+  skill:
+    title: "Skill"
+    text: "다양한 프로그래밍 언어 및 개발도구를 사용한 경험이 있습니다."
+    section: skill
+    list:
+      - title: "Android"
+        desc: ""
+        image: assets/img/skill/icon/android.png
+      - title: "Java"
+        desc: ""
+        image: assets/img/skill/icon/java.png
+      - title: "Kotlin"
+        desc: ""
+        image: assets/img/skill/icon/kotlin.png
+      - title: "Firebase"
+        desc: ""
+        image: assets/img/skill/icon/firebase.png
+      - title: "Github"
+        desc: ""
+        image: assets/img/skill/icon/github.png
+      - title: "Visual Studio"
+        desc: ""
+        image: assets/img/skill/icon/visualstudio.png
+      - title: "Delphi"
+        desc: ""
+        image: assets/img/skill/icon/delphi.png
+      - title: "Python"
+        desc: ""
+        image: assets/img/skill/icon/python.png
+      - title: "C#"
+        desc: ""
+        image: assets/img/skill/icon/csharp.png
+      - title: "Django"
+        desc: ""
+        image: assets/img/skill/icon/django.png
+      - title: "Flutter"
+        desc: ""
+        image: assets/img/skill/icon/flutter.png
+      - title: "Jira"
+        desc: ""
+        image: assets/img/skill/icon/jira.png
+      - title: "Confluence"
+        desc: ""
+        image: assets/img/skill/icon/confluence.png
+      - title: "Bitbucket"
+        desc: ""
+        image: assets/img/skill/icon/bitbucket.png
+      - title: "IntelliJ"
+        desc: ""
+        image: assets/img/skill/icon/intellij.png
+      - title: "Eclipse"
+        desc: ""
+        image: assets/img/skill/icon/eclipse.png
+      - title: "Jenkins"
+        desc: ""
+        image: assets/img/skill/icon/jenkins.png
+      - title: "Figma"
+        desc: ""
+        image: assets/img/skill/icon/figma.png
+      - title: "Dart"
+        desc: ""
+        image: assets/img/skill/icon/dart.png
+      - title: "Jekyll"
+        desc: ""
+        image: assets/img/skill/icon/jekyll.png
+
+  portfolio:
+    title: "Portfolio"
+    text: "다양한 분야에서 다수의 프로젝트를 진행하였습니다.<br>**썸네일을 클릭**하면 자세한 내용을 보실 수 있습니다."
+    section: portfolio
+    closebutton: "닫기"
+
+  timeline:
+    title: "Timeline"
+    text: "20년간 다양한 분야에서 근무하였습니다."
+    section: timeline
+    # left is the default
+    #start_align: "left"
+    events:
+      - title: "위메프"
+        year: "2013/01 ~ 2023/06"
+        desc: "앱 개발그룹 그룹장<br>위메프 서비스 관련 앱 개발 총괄"
+        image: assets/img/timeline/wemakeprice.png
+        alt:
+        myimage: assets/img/timeline/wemakeprice_me.png
+        myalt:
+        # you can enforce the alignment
+        # align: right
+      - title: "넥스트앱스"
+        year: "2011/11 ~ 2013/01"
+        desc: "앱팡 개발팀<br>안드로이드 앱 전체 개발"
+        image: assets/img/timeline/appang.png
+        alt:
+        myimage:
+        myalt:
+      - title: "2010/04 ~ 2011/07"
+        year: "엔스퍼트"
+        desc: "선임연구원 - 응용개발팀<br>세계최초 안드로이드 태블릿 아이덴티티탭 개발"
+        image: assets/img/timeline/enspert.png
+        alt:
+        myimage:
+        myalt:
+      - title: "모빌탑(필러지 시스템)"
+        year: "2007/02 ~ 2010/02"
+        desc: "선임연구원<br>LGT 뮤직온 서비스, 삼성 PC 매니저 개발"
+        image: assets/img/timeline/mobiletop.png
+        alt:
+        myimage:
+        myalt:
+      - title: "디엔에스테크놀리지"
+        year: "2006/04 ~ 2007/03"
+        desc: "시스템 보안팀 - 주임연구원<br>외교통상부, 제주청사 출입보안 및 근태 시스템 개발"
+        image: assets/img/timeline/dnst.png
+        alt:
+        myimage:
+        myalt:
+      - title: "사이버이메지네이션"
+        year: "2004/11 ~ 2005/10"
+        desc: "개발실 - 대리<br>금융감독원, 증권거래소 웹용 리포팅 솔류션 개발"
+        image: assets/img/timeline/cyber.png
+        alt:
+        # myimage: assets/img/timeline/cyber_me.png
+        # myalt:
+      - title: "라이니즈"
+        year: "2003/11 ~ 2004/07"
+        desc: "개발팀 - 사원<br>애니메이션 라인테스트 솔류션 콤마돌이 개발"
+        image: assets/img/timeline/commadori.png
+        alt:
+        # myimage: assets/img/timeline/commadori_me.png
+        # myalt:
+      - title: "엔텍엔지니어링"
+        year: "2002/02 ~ 2003/10"
+        desc: "개발팀 - 사원<br>네온사인 디자인 및 ROM 바이너리 생성 솔류션 개발"
+        image: assets/img/timeline/neonsign.png
+        alt:
+        # myimage: assets/img/timeline/neonsign_me.png
+        # myalt:
+    end: "assets/img/timeline/latte_coolsharp_v2.png"
+
+  footer:
+    legal: "Privacy Policy"
+    social:
+      - url: https://www.facebook.com/coolsharp.dev
+        icon: fab fa-facebook-f
+      - url: https://linkedin.com
+        icon: fab fa-linkedin-in
+      - url: https://dribbble.com/coolsharp
+        icon: fab fa-dribbble
+      - url: https://www.deviantart.com/coolsharp
+        icon: fab fa-deviantart
+      - url: https://coolsharp.blogspot.com/
+        icon: fab fa-blogger-b
+en-US:
+  <<: *DEFAULT_EN
+en-CA:
+  <<: *DEFAULT_EN
+en-GB:
+  <<: *DEFAULT_EN
+en-AU:
+  <<: *DEFAULT_EN
