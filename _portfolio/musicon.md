@@ -12,7 +12,7 @@ PC와 피쳐폰의 미디어 파일과 개인정보를 편리하게 관리<br>
 &nbsp;• MP3 다운로드<br>
 &nbsp;• 일정 관리<br>
 &nbsp;• SMS 관리<br>
-&nbsp;• 전화번호부 <br>관리
+&nbsp;• 전화번호부 관리<br>
 &nbsp;• 사진앨범 관리"
 roletitle: "주요역할"
 role: "musicON Player 개발(90% 담당)<br>
