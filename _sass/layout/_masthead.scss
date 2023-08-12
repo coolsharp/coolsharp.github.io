@@ -11,19 +11,19 @@ header.masthead {
   background-position: center center;
   background-size: cover;
   .intro-text {
-    padding-top: 150px;
-    padding-bottom: 100px;
+    padding-top: 350px;
+    padding-bottom: 250px;
     .intro-lead-in {
-      font-size: 22px;
-      line-height: 22px;
+      font-size: 40px;
+      line-height: 40px;
       margin-bottom: 25px;
       @include serif-font;
     }
     .intro-heading {
-      font-size: 50px;
+      font-size: 75px;
       font-weight: 700;
-      line-height: 50px;
-      margin-bottom: 25px;
+      line-height: 75px;
+      margin-bottom: 50px;
       @include intro-title-font;
     }
     .intro-margin {
@@ -34,8 +34,8 @@ header.masthead {
 @media (min-width: 768px) {
   header.masthead {
     .intro-text {
-      padding-top: 300px;
-      padding-bottom: 200px;
+      padding-top: 350px;
+      padding-bottom: 250px;
       .intro-lead-in {
         font-size: 40px;
         line-height: 40px;
