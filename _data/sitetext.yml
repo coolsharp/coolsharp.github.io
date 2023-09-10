@@ -28,6 +28,8 @@ en: &DEFAULT_EN
             icon: fa-regular fa-envelope
           - url: https://coolsharp.blogspot.com/
             icon: fa-brands fa-blogger-b
+          - url: https://medium.com/@coolsharp/
+            icon: fa-brands fa-medium
           - url: https://www.facebook.com/coolsharp.dev/
             icon: fa-brands fa-facebook-f
           - url: https://dribbble.com/coolsharp/
@@ -194,6 +196,8 @@ en: &DEFAULT_EN
         icon: fa-regular fa-envelope
       - url: https://coolsharp.blogspot.com/
         icon: fa-brands fa-blogger-b
+      - url: https://medium.com/@coolsharp/
+        icon: fa-brands fa-medium
       - url: https://www.facebook.com/coolsharp.dev/
         icon: fa-brands fa-facebook-f
       - url: https://dribbble.com/coolsharp/
