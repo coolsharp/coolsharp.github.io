@@ -10,7 +10,7 @@
     </div>
     <div class="row d-flex justify-content-center">
     {% for profile in site.data.sitetext[site.locale].about.profile %}
-    <div class="col-md-6">
+    <div class="col-md-8">
       <div class="team-member">
       <img class="mx-auto rounded-circle" src="{{ profile.image }}" alt="">
       <h4>{{ profile.name }}</h4>
@@ -46,7 +46,7 @@
     </div>
 	  <div class="row d-flex justify-content-center">
 	  {% for profile in site.data.sitetext.about.profile %}
-		<div class="col-md-6">
+		<div class="col-md-8">
 		  <div class="team-member">
 			<img class="mx-auto rounded-circle" src="{{ profile.image }}" alt="">
 			<h4>{{ profile.name }}</h4>
