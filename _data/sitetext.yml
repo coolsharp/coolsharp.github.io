@@ -43,7 +43,7 @@ en: &DEFAULT_EN
           - url: https://www.linkedin.com/in/coolsharp/
             icon: fa-brands fa-linkedin-in
           - url: https://twitter.com/coolsharp0/
-            icon: fa-brands fa-twitter
+            icon: fa-brands fa-x-twitter
     body: "다양한 개발 현장에서 20년 이상의 경력을 쌓아온 개발자입니다.
            개발에 대한 열정과 끊임없는 도전으로 다양한 프로젝트를 수행하며 경험을 쌓아왔습니다.
            쇼셜 커머스 위메프에서 모바일앱개발 그룹장 역할을 수행하여 앱 개발의 전반적인 공정(기획 검토, 개발 업무 분장, API 협의, 디자인 협의, 개발 구조 정리 및 결정, 전체 일정 관리 및 QA / 배포 및 모니터링)을 총괄하였습니다.
@@ -211,7 +211,7 @@ en: &DEFAULT_EN
       - url: https://www.linkedin.com/in/coolsharp/
         icon: fa-brands fa-linkedin-in
       - url: https://twitter.com/coolsharp0/
-        icon: fa-brands fa-twitter
+        icon: fa-brands fa-x-twitter
 en-US:
   <<: *DEFAULT_EN
 en-CA:
