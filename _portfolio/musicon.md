@@ -40,7 +40,7 @@ enddate: 2010/01
 skilltitle: "개발언어 및 주요기술"
 skills:
   - title: "Delphi"
-  - title: "DCCD"
+  - title: "CDDB"
   - title: "UAC"
   - title: "ActiveX"
 linktitle: "링크"
