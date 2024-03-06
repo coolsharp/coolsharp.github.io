@@ -8,7 +8,7 @@ caption: #what displays in the portfolio grid:
 title: "Identity Tab E201/E301"
 projecttitle: "프로젝트 설명"
 project: "세계최초 안드로이드 태블릿 인 Enspert Identity Tab Built-In App과 환경설정 커스터 마이징 작업"
-roletitle: "주요역할"
+roletitle: "주요업무 및 담당역할"
 role: "자체 디바이스 안드로이드 2.2 Froyo 운영체제 커스터 마이징 작업 환경설정 커스터 마이징<br>시계, 카메라, 탐색기, Launcher 커스터 마이징<br>기타 Built-In App 커스터 마이징<br>안드로이드 OS 프레임워크 버그 수정 및 커스터 마이징"
 datetitle: "참여기간"
 startdate: 2010/10

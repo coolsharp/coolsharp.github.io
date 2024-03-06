@@ -18,7 +18,7 @@ project: "쉽게 작성/관리할 수 있는 윈도우용 포스트잇 프로그
 &nbsp;• 알림 효과배경음악 mp3, ogg 파일 지원<br>
 &nbsp;• 항상 위 또는 밑 기능을 지원<br>
 &nbsp;• 자석기능을 지원"
-roletitle: "주요역할"
+roletitle: "주요업무 및 담당역할"
 role: "1인 프로젝트(기획, 디자인, 개발, QA, 운영)<br>
 &nbsp;• 기획<br>
 &nbsp;• 디자인<br>

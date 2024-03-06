@@ -8,7 +8,7 @@ caption: #what displays in the portfolio grid:
 title: "위메프 파트너 2.0"
 projecttitle: "프로젝트 설명"
 project: "위메프에서 판매하는 상품을 모바일 환경인 스마트폰 또는 태블릿에서 관리할 수 있는 판매자 전용 앱"
-roletitle: "주요역할"
+roletitle: "주요업무 및 담당역할"
 role: "프로젝트 PM<br>
 &nbsp;• 기획 & 디자인 요건 분석 및 협의<br>
 &nbsp;• 프론트 & 백엔드 개발 부서간 업무 협의<br>

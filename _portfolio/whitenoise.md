@@ -20,7 +20,7 @@ project: "다양한 주파수 범위의 무작위한 음파로 이루어져 있�
 &nbsp;• <a href='https://play.google.com/store/apps/details?id=com.coolsharp.whitenoise.place' target=_blank>하얀소리 장소</a><br>
 &nbsp;• <a href='https://play.google.com/store/apps/details?id=com.coolsharp.whitenoise.wave' target=_blank>하얀소리 파도</a><br>
 &nbsp;• <a href='https://play.google.com/store/apps/details?id=com.coolsharp.whitenoise.forest' target=_blank>하얀소리 숲</a>"
-roletitle: "주요역할"
+roletitle: "주요업무 및 담당역할"
 role: "1인 프로젝트<br>
 &nbsp;• 기획<br>
 &nbsp;• 디자인<br>

@@ -14,7 +14,7 @@ PC와 피쳐폰의 미디어 파일과 개인정보를 편리하게 관리<br>
 &nbsp;• SMS 관리<br>
 &nbsp;• 전화번호부 관리<br>
 &nbsp;• 사진앨범 관리"
-roletitle: "주요역할"
+roletitle: "주요업무 및 담당역할"
 role: "musicON Player 개발(90% 담당)<br>
 &nbsp;• 메인 UI<br>
 &nbsp;• Skin Manager 모듈<br>

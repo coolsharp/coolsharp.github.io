@@ -10,7 +10,7 @@ projecttitle: "프로젝트 설명"
 project: "로또에서 QR코드 당첨확인 기능을 지원하기 않는 시기에 로또 번호 영역을 사진으로 찍어 자동 번호 인식 및 추첨까지 해주는 로또 자동 추첨 앱<br>
 &nbsp;• OCR 번호 자동 인식 기능 구현<br>
 &nbsp;• 로또 당첨번호 자동 크롤링 서버 구현<br>"
-roletitle: "주요역할"
+roletitle: "주요업무 및 담당역할"
 role: "1인 프로젝트<br>
 &nbsp;• 기획<br>
 &nbsp;• 디자인<br>

@@ -8,7 +8,7 @@ caption: #what displays in the portfolio grid:
 title: "FXPic"
 projecttitle: "프로젝트 설명"
 project: "사진 또는 갤러리 이미지를 78가지 다양한 이미지 프로세싱 효과를 주는 사진 특수 효과 적용 앱"
-roletitle: "주요역할"
+roletitle: "주요업무 및 담당역할"
 role: "1인 프로젝트<br>
 &nbsp;• 기획<br>
 &nbsp;• 디자인<br>

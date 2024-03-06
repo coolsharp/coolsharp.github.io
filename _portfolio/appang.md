@@ -8,7 +8,7 @@ caption: #what displays in the portfolio grid:
 title: "앱팡"
 projecttitle: "프로젝트 설명"
 project: "광고주가 등록한 특정 광고를 시청하면 사용자에게 일정 금액의 대가를 주는 보상형 광고 서비스 앱"
-roletitle: "주요역할"
+roletitle: "주요업무 및 담당역할"
 role: "전체 개발<br>
 &nbsp;• 기획 및 디자인 요건 파악 및 협의<br>
 &nbsp;• 개발 설계 및 개발진행<br>

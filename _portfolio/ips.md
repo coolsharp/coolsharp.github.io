@@ -8,7 +8,7 @@ caption: #what displays in the portfolio grid:
 title: "IPS(Identity PC Service)"
 projecttitle: "프로젝트 설명"
 project: "Identity Tab과 PC의 멀티미디어 파일 전송 관리 프로그램<br>파일 전송 및 스토어를 통한 미디어와 앱 구매"
-roletitle: "주요역할"
+roletitle: "주요업무 및 담당역할"
 role: "Identity PC Service 플레이어 기획 및 개발<br>미디어 플레이어 개발<br>벨소리 컷팅 개발<br>앱/미디어 스토어 개발<br>Phone Manager Web Server 개발<br>디바이스 내 웹서버 구현"
 datetitle: "참여기간"
 startdate: 2010/04

@@ -8,7 +8,7 @@ caption: #what displays in the portfolio grid:
 title: "인생시계"
 projecttitle: "프로젝트 설명"
 project: "내가 죽을날을 예측해보고 남은 인생의 시간을 년월일이 아닌 일수로 환산하여 카운트다운 효과로 인생의 소비를 사용자에게 인식시켜 하루하루를 더 소중히 활용할 수 있게 동기를 부여하는 앱"
-roletitle: "주요역할"
+roletitle: "주요업무 및 담당역할"
 role: "1인 프로젝트(기획, 디자인, 개발, QA, 운영)<br>
 &nbsp;• 기획<br>
 &nbsp;• 디자인<br>

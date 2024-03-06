@@ -13,7 +13,7 @@ project: "콤마돌이 프로그램은 실제로 사용하는 애니메이션 �
 &nbsp;• 캡쳐된 그림 편집 (전문가용)<br>
 &nbsp;• Avi 파일 생성 및 animation gif 파일 생성<br>
 &nbsp;• 복사 방지를 위해 Key Lock 적용"
-roletitle: "주요역할"
+roletitle: "주요업무 및 담당역할"
 role: "1인 프로젝트<br>
 &nbsp;• 기획<br>
 &nbsp;• 디자인<br>

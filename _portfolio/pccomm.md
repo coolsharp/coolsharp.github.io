@@ -16,7 +16,7 @@ project: "PC 커뮤니케이터<br>
 PC 매니저<br>
 &nbsp;• 수출용 삼성 애니콜 피쳐폰과 PC의 데이터 싱크 프로그램<br>
 &nbsp;• 주소록, 일정, SMS, 사진, 음악, 동영상등의 PC와 Phone 데이터 싱크"
-roletitle: "주요역할"
+roletitle: "주요업무 및 담당역할"
 role: "버그 수정 및 신규 모델 적용"
 datetitle: "참여기간"
 startdate: 2007/03
