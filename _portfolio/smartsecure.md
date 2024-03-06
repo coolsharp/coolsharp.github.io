@@ -24,7 +24,7 @@ enddate: 2007/03
 skilltitle: "개발언어 및 주요기술"
 skills:
   - title: "Windows"
-  - title: "Delhpi"
+  - title: "Delphi"
 linktitle: "링크(서비스 종료)"
 link: "http://www.dnst.co.kr/"
 imagetitle: "참고화면"
