@@ -14,10 +14,10 @@ project: "콤마돌이 프로그램은 실제로 사용하는 애니메이션 �
 &nbsp;• Avi 파일 생성 및 animation gif 파일 생성<br>
 &nbsp;• 복사 방지를 위해 Key Lock 적용"
 roletitle: "주요업무 및 담당역할"
-role: "1인 프로젝트<br>
-&nbsp;• 기획<br>
-&nbsp;• 디자인<br>
-&nbsp;• 개발 설계 및 개발진행<br>
+role: "전체 개발<br>
+&nbsp;• 요구사항 분석 및 기획요건 정리<br>
+&nbsp;• UI 디자인<br>
+&nbsp;• 개발 설계 및 개발<br>
 &nbsp;• QA 및 배포 관리<br>
 &nbsp;• 운영 이슈 대응<br>"
 datetitle: "참여기간"
