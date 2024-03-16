@@ -7,27 +7,24 @@ caption: #what displays in the portfolio grid:
 #what displays when the item is clicked:
 title: "맛신선"
 projecttitle: "프로젝트 설명"
-project: "위메프의 쇼핑 서비스를 모바일 기기에서 이용할 수 있게 해주는 앱<br>
-&nbsp;• 신선식품 전용 버티컬 서비스<br>
-&nbsp;• 스마트폰이나 태블릿 등 모바일 기기에서 쇼핑기능 제공<br>
-&nbsp;• 다양한 상품 카테고리와 브랜드를 제공<br>
+project: "소셜 커머스 위메프의 신선식품 전용 버티컬 서비스 전용 앱<br>
+&nbsp;• 다양한 카테고리 중 신선식품 카테고리 전용 앱<br>
 &nbsp;• 특가 할인 상품과 이벤트 등 다양한 혜택을 제공<br>
-&nbsp;• 다양한 상품을 사용자에게 큐레이션<br>
+&nbsp;• 다양한 신선식품 상품을 사용자에게 큐레이션<br>
 &nbsp;• 상품을 검색하고, 상품 상세 정보를 확인하며, 주문 및 결제를 진행<br>
-&nbsp;• 주문 내역 및 배송 상태 등을 앱에서 확인"
+&nbsp;• 주문 내역 및 배송 상태 등을 앱에서 확인<br>
+&nbsp;• 위메프 코드 베이스로 gradle build variants으로 개발하여 버티컬 제품군 공통코드 최대 활용"
 roletitle: "주요업무 및 담당역할"
-role: "프로젝트 PM<br>
-&nbsp;• 기획 & 디자인 요건 분석 및 협의<br>
-&nbsp;• 프론트 & 백엔드 개발 부서간 업무 협의<br>
-&nbsp;• 개발 방향 및 적용 기술 결정<br>
-&nbsp;• 개발 인력 구성 및 담당자 배정<br>
-&nbsp;• 프로젝트 관리(일정, 리스크 모니터링)<br>
-&nbsp;• QA 및 배포 관리<br>
-&nbsp;• 운영 이슈 대응<br>"
+role: "맛신선 앱 개발 총괄 책임<br>
+&nbsp;• 기획, 디자인, 프론트, 백엔드 요건 분석 및 협의<br>
+&nbsp;• 개발 방향 및 적용 기술 검토 및 결정<br>
+&nbsp;• QA(Sanity Test, Smoke Test, Regression Test) 모니터링 및 대응 & 스토어 배포 관리<br>
+&nbsp;• ci/cd 환경 구성(jenkins)<br>
+&nbsp;• 다양한 기술 & 정책 이슈 대응 & 그룹 업무 커뮤니케이션 채널"
 datetitle: "참여기간"
 startdate: 2021/01
 enddate: 2022/01
-skilltitle: "개발언어 및 주요기술"
+skilltitle: "개발언어 / 주요기술 / 사용툴"
 skills:
   - title: "Android Studio"
   - title: "Kotlin"

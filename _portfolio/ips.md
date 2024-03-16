@@ -7,16 +7,22 @@ caption: #what displays in the portfolio grid:
 #what displays when the item is clicked:
 title: "IPS(Identity PC Service)"
 projecttitle: "프로젝트 설명"
-project: "Identity Tab과 PC의 멀티미디어 파일 전송 관리 프로그램<br>파일 전송 및 스토어를 통한 미디어와 앱 구매"
+project: "초기 ITunes 컨셉을 표방하여 엔스퍼트 Identity Tab과 Windows PC의 멀티미디어 파일 전송 관리 프로그램.<br>
+멀티미디어 파일 전송 및 스토어를 통한 미디어 및 앱 구매 및 설치 기능을 제공하는 Windows PC용 어플리케이션."
 roletitle: "주요업무 및 담당역할"
-role: "Identity PC Service 플레이어 기획 및 개발<br>미디어 플레이어 개발<br>벨소리 컷팅 개발<br>앱/미디어 스토어 개발<br>Phone Manager Web Server 개발<br>디바이스 내 웹서버 구현"
+role: "&nbsp;• Identity PC Service 어플리케이션 전체 개발<br>
+&nbsp;• 기획/디자인(외주) 관리<br>
+&nbsp;• DirectShow 미디어 플레이어 모듈 개발<br>
+&nbsp;• 벨소리 컷팅 및 전송 개발<br>
+&nbsp;• 앱스토어 UI 개발<br>
+&nbsp;• Phone Manager 서버 데몬 개발 및 패키지 백업 관리 기능 구현"
 datetitle: "참여기간"
 startdate: 2010/04
 enddate: 2010/10
-skilltitle: "개발언어 및 주요기술"
+skilltitle: "개발언어 / 주요기술 / 사용툴"
 skills:
   - title: "Windows"
-  - title: "Delphi"
+  - title: "Delphi 2006"
   - title: "Eclipse"
   - title: "Android"
   - title: "C"

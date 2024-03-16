@@ -12,16 +12,14 @@ project: "기존 수기로 처리하던 위메프에서 판매하는 공연티�
 &nbsp;• 인식된 QA코드 자동 검표 진행"
 roletitle: "주요업무 및 담당역할"
 role: "프로젝트 전체 개발<br>
-&nbsp;• 기획 & 디자인 요건 분석 및 협의<br>
-&nbsp;• 프론트 & 백엔드 개발 부서간 업무 협의<br>
-&nbsp;• 개발 방향 및 적용 기술 결정<br>
-&nbsp;• 실무개발<br>
-&nbsp;• QA 및 배포 관리<br>
-&nbsp;• 운영 이슈 대응"
+&nbsp;• 기획, 디자인, 프론트, 백엔드 요건 분석 및 협의<br>
+&nbsp;• 개발 방향 및 적용 기술 검토 및 결정<br>
+&nbsp;• QA(Sanity Test, Smoke Test, Regression Test) 모니터링 및 대응 & 스토어 배포 관리<br>
+&nbsp;• ci/cd 환경 구성(jenkins)"
 datetitle: "참여기간"
 startdate: 2020/05
 enddate: 2020/07
-skilltitle: "개발언어 및 주요기술"
+skilltitle: "개발언어 / 주요기술 / 사용툴"
 skills:
   - title: "Android Studio"
   - title: "Kotlin"

@@ -20,10 +20,10 @@ role: "전체 개발"
 datetitle: "참여기간"
 startdate: 2002/02
 enddate: 2003/10
-skilltitle: "개발언어 및 주요기술"
+skilltitle: "개발언어 / 주요기술 / 사용툴"
 skills:
   - title: "Windows"
-  - title: "Delphi"
+  - title: "Delphi 5"
 linktitle: "링크"
 link: "http://www.newentec.co.kr"
 imagetitle: "참고화면"

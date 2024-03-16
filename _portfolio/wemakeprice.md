@@ -15,18 +15,18 @@ project: "위메프의 쇼핑 서비스를 모바일 기기에서 이용할 수 
 &nbsp;• 상품을 검색하고, 상품 상세 정보를 확인하며, 주문 및 결제를 진행<br>
 &nbsp;• 주문 내역 및 배송 상태 등을 앱에서 확인"
 roletitle: "주요업무 및 담당역할"
-role: "프로젝트 PM<br>
-&nbsp;• 기획 & 디자인 요건 분석 및 협의<br>
-&nbsp;• 프론트 & 백엔드 개발 부서간 업무 협의<br>
-&nbsp;• 개발 방향 및 적용 기술 결정<br>
-&nbsp;• 개발 인력 구성 및 담당자 배정<br>
-&nbsp;• 프로젝트 관리(일정, 리스크 모니터링)<br>
-&nbsp;• QA 및 배포 관리<br>
-&nbsp;• 운영 이슈 대응<br>"
+role: "위메프 앱 개발 총괄 책임<br>
+&nbsp;• 주요 추진 서비스 프로젝트 총괄 리딩<br>
+&nbsp;• 그룹 / 팀 스킬 향상 및 조직 문화 형성<br>
+&nbsp;• 기획, 디자인, 프론트, 백엔드 요건 분석 및 협의<br>
+&nbsp;• 개발 방향 및 적용 기술 검토 및 결정<br>
+&nbsp;• QA(Sanity Test, Smoke Test, Regression Test) 모니터링 및 대응 & 스토어 배포 관리<br>
+&nbsp;• ci/cd 환경 구성(jenkins)<br>
+&nbsp;• 다양한 기술 & 정책 이슈 대응 & 그룹 업무 커뮤니케이션 채널"
 datetitle: "참여기간"
 startdate: 2013/01
 enddate: 2023/05
-skilltitle: "개발언어 및 주요기술"
+skilltitle: "개발언어 / 주요기술 / 사용툴"
 skills:
   - title: "Android Studio"
   - title: "Kotlin"

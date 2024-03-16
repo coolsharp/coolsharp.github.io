@@ -13,7 +13,7 @@ role: "UI개발 및 기 개발된 모듈 수정<br>원격 호출을 위한 Launc
 datetitle: "참여기간"
 startdate: 2011/08
 enddate: 2011/09
-skilltitle: "개발언어 및 주요기술"
+skilltitle: "개발언어 / 주요기술 / 사용툴"
 skills:
   - title: "Windows"
   - title: "Visual Studio"

@@ -7,17 +7,20 @@ caption: #what displays in the portfolio grid:
 #what displays when the item is clicked:
 title: "Identity Tab E201/E301"
 projecttitle: "프로젝트 설명"
-project: "세계최초 안드로이드 태블릿 인 Enspert Identity Tab Built-In App과 환경설정 커스터 마이징 작업"
+project: "KT에서 출시한 세계최초 안드로이드 태블릿 Enspert Identity Tab의 Built-In App과 환경설정 커스터마이징."
 roletitle: "주요업무 및 담당역할"
-role: "자체 디바이스 안드로이드 2.2 Froyo 운영체제 커스터 마이징 작업 환경설정 커스터 마이징<br>시계, 카메라, 탐색기, Launcher 커스터 마이징<br>기타 Built-In App 커스터 마이징<br>안드로이드 OS 프레임워크 버그 수정 및 커스터 마이징"
+role: "&nbsp;• 안드로이드 2.2 Froyo OS 환경설정을 기기 기능에 맞게 커스터마이징<br>
+&nbsp;• Launcher, 시계, 카메라 등 기본 빌트인 앱 커스터마이징<br>
+&nbsp;• 안드로이드 OS 프레임워크 버그 수정"
 datetitle: "참여기간"
 startdate: 2010/10
 enddate: 2011/07
-skilltitle: "개발언어 및 주요기술"
+skilltitle: "개발언어 / 주요기술 / 사용툴"
 skills:
   - title: "Eclipse"
   - title: "Java"
   - title: "Linux"
+  - title: "C"
 linktitle: "링크"
 link: "https://enspert.co/"
 imagetitle: "참고화면"

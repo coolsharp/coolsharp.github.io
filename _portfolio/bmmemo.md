@@ -19,19 +19,16 @@ project: "쉽게 작성/관리할 수 있는 윈도우용 포스트잇 프로그
 &nbsp;• 항상 위 또는 밑 기능을 지원<br>
 &nbsp;• 자석기능을 지원"
 roletitle: "주요업무 및 담당역할"
-role: "1인 프로젝트(기획, 디자인, 개발, QA, 운영)<br>
-&nbsp;• 기획<br>
-&nbsp;• 디자인<br>
-&nbsp;• 개발 설계 및 개발진행<br>
-&nbsp;• QA 및 배포 관리<br>
-&nbsp;• 운영 이슈 대응<br>"
+role: "개발 학습을 위한 토이 프로젝트(평일퇴근이후 또는 주말 취미 코딩)<br>
+&nbsp;• 기획, 디자인, 개발, 세너티 테스트, 운영"
 datetitle: "참여기간"
 startdate: 2009/05
 enddate: 2010/04
-skilltitle: "개발언어 및 주요기술"
+skilltitle: "개발언어 / 주요기술 / 사용툴"
 skills:
   - title: "Windows"
-  - title: "Delphi"
+  - title: "Delphi 2006"
+  - title: "Photoshop"
 linktitle: "링크"
 link: "https://coolsharp.tistory.com/tag/BMMemo"
 imagetitle: "참고화면"
