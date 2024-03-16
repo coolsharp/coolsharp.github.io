@@ -1,14 +1,16 @@
 ---
 caption: #what displays in the portfolio grid:
-  title: 하얀소리 제품군
+  title: 하얀소리 앱
   subtitle: 다양한 ASMR로 심신의 안정을 주는 앱
   thumbnail: assets/img/portfolio/whitenoise/thumb_whitenoise.png
   
 #what displays when the item is clicked:
-title: "하얀소리 제품군"
+title: "하얀소리 앱"
 projecttitle: "프로젝트 설명"
 project: "다양한 주파수 범위의 무작위한 음파로 이루어져 있어 다양한 용도로 활용 가능한 ASMR 앱.<br>
-구글 플레이 측 선제안으로 구글 플레이 피쳐드 진행(별도 추가 심사 후 피쳐드 등록).<br>
+구글 플레이 담당자가 메일로 피쳐드 제안을 주어 추가 협의 후 구글 플레이 추천 앱에 등록된것이 기억에 남음.<br>
+리뷰 및 메일로 앱 이용으로 시험 합격, 육아, 이명완화 도움등에 감사표시를 보면서 보람을 느끼며 앱 운영 중.<br>
+디자인(figma, photoshop), 기획, 개발 공부를 위해 개발.<br>
 집중력 향상, 수면장애 개선, 스트레스 완화, 이명증상 개선, 층간소음 완화, 신생아 돌봄 등 다수의 효과 리뷰로 입증.<br>
 소리 카테고리 별 플러그인 / 앱 개발.<br>
 &nbsp;• <a href='https://play.google.com/store/apps/details?id=com.coolsharp.whitenoise.rain' target=_blank>하얀소리 비</a><br>

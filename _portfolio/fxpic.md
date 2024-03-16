@@ -1,11 +1,11 @@
 ---
 caption: #what displays in the portfolio grid:
-  title: FXPic
+  title: FXPic 앱
   subtitle: 78가지 다양한 필터효과 사진앱
   thumbnail: assets/img/portfolio/fxpic/thumb_fxpic.png
   
 #what displays when the item is clicked:
-title: "FXPic"
+title: "FXPic 앱"
 projecttitle: "프로젝트 설명"
 project: "사진 또는 이미지를 78가지 다양한 필터 효과 적용 앱."
 roletitle: "주요업무 및 담당역할"

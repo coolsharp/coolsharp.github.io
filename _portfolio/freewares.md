@@ -8,6 +8,19 @@ caption: #what displays in the portfolio grid:
 title: "프리웨어들"
 date: 2002-01-01
 ---
+<h5>CoolSharp Code Section Generator</h5>
+<img class="img-fluid d-block mx-auto" src="assets/img/portfolio/freewares/codesection.png" alt="" />
+<p class="text-muted">팀 내 자바 코딩 스타일 컨벤션을 더 편리하게 사용하기위해 인텔리J IDE 플러그인 개발<br>팀원들이 편리하게 사용할 수 있도록 젯브레인 마켓플레이스에 등록</p>
+<a href="https://plugins.jetbrains.com/plugin/8109-coolsharp-code-section-generator" target="_blank">링크</a>
+
+<hr class="hr-solid">
+
+<h5>Oekaki & PaintBBS 그리미</h5>
+<img class="img-fluid d-block mx-auto" src="assets/img/portfolio/freewares/oekaki.png" alt="" />
+<p class="text-muted">자바 기반 인터넷 그래픽 에디터 Oekaki나 PaintBBS의 보조툴<br>일반 이미지를 Copy / Paste를 하지 못하하는 단점을 해소<br>Oekaki & PaintBBS에서 일반 이미지를 똑같이 복사함</p>
+
+<hr class="hr-solid">
+
 <h5>CS 그림 쪼개미 1.0</h5>
 <img class="img-fluid d-block mx-auto" src="assets/img/portfolio/freewares/cspic.png" alt="" />
 <p class="text-muted">하나의 이미지를 여러개의 이미지를 나열한 사진 효과를 주는 유틸리티<br>Photoshop 에서 수작업시 30분 ~ 1시간 이상 소요되는 작업을 1분으로 단축<br>각 그림을 특정 영역으로 나누고 회전등의 효과로 환상적인 효과 제공<br>선형 보간을 이용하여 그림 화질 손실 최소화</p>

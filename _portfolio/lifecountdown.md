@@ -1,11 +1,11 @@
 ---
 caption: #what displays in the portfolio grid:
-  title: 인생시계
-  subtitle: 남은 인생을 시간단위로 환산하여 표시
+  title: 인생시계 앱
+  subtitle: 남은 인생을 날짜/시간단위로 환산
   thumbnail: assets/img/portfolio/lifecountdown/thumb_lifecountdown.png
   
 #what displays when the item is clicked:
-title: "인생시계"
+title: "인생시계 앱"
 projecttitle: "프로젝트 설명"
 project: "영화 'Countdown - 2019(저스틴 덱 감독)'을 보고 영감을 얻음.<br>
 남은 인생의 시간을 년월일이 아닌 일수로 환산하여 더 직접적으로 느끼게하여 하루하루를 더 소중히 활용할 수 있게 동기를 부여하는 앱.<br>

@@ -1,11 +1,11 @@
 ---
 caption: #what displays in the portfolio grid:
-  title: 앱팡
-  subtitle: 보상형 광고 시스템 서비스
+  title: 앱팡 앱
+  subtitle: 보상형 광고 서비스
   thumbnail: assets/img/portfolio/appang/thumb_appang.png
   
 #what displays when the item is clicked:
-title: "앱팡"
+title: "앱팡 앱"
 projecttitle: "프로젝트 설명"
 project: "사용자가 앱 다운로드, 게임 플레이, SNS 구독 / 좋아요 등의 활동을 통해 포인트를 적립.<br>
 적립된 포인트를 현금, 상품권, 기프티콘 등으로 교환할 수 있는 리워드 광고 앱."
