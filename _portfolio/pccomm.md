@@ -7,7 +7,7 @@ caption: #what displays in the portfolio grid:
 #what displays when the item is clicked:
 title: "삼성 PC 매니저(수출향)"
 projecttitle: "프로젝트 설명"
-project: "삼성 PC 매니저(수출향) / KTFT PC 커뮤니케이터<br>
+project: "삼성 PC 매니저(수출향) / KTFT PC 커뮤니케이터.<br>
 &nbsp;• 수출용 삼성 애니콜 피쳐폰과 PC의 데이터 싱크 프로그램<br>
 &nbsp;• 주소록, 일정, SMS, 사진, 음악, 동영상등의 PC와 Phone 데이터 싱크<br>
 &nbsp;• KTFT 제조사의 단말기(Ever 시리즈)와 PC와의 데이터 전송을 하는 프로그램 개발<br>

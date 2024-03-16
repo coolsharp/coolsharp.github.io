@@ -7,7 +7,7 @@ caption: #what displays in the portfolio grid:
 #what displays when the item is clicked:
 title: "위메프 앱"
 projecttitle: "프로젝트 설명"
-project: "위메프의 쇼핑 서비스를 모바일 기기에서 이용할 수 있게 해주는 앱<br>
+project: "위메프의 쇼핑 서비스를 모바일 기기에서 이용할 수 있게 해주는 앱.<br>
 &nbsp;• 스마트폰이나 태블릿 등 모바일 기기에서 쇼핑기능 제공<br>
 &nbsp;• 다양한 상품 카테고리와 브랜드를 제공<br>
 &nbsp;• 특가 할인 상품과 이벤트 등 다양한 혜택을 제공<br>

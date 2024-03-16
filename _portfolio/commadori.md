@@ -7,7 +7,8 @@ caption: #what displays in the portfolio grid:
 #what displays when the item is clicked:
 title: "콤마돌이"
 projecttitle: "프로젝트 설명"
-project: "콤마돌이 프로그램은 실제로 사용하는 애니메이션 제작기법을 도입한 프로그램으로 누구나 쉽게 애니메이션을 제작할 수 있을 뿐 아니라 학교, 학원의 멀티미디어 관련 이론중심의 교육에서 실기위주의 교육을 가능하게 하는 애니메이션 제작 프로그램<br>
+project: "콤마돌이 프로그램은 실제로 사용하는 애니메이션 제작기법을 도입한 프로그램.<br>
+교육기관에서 실습 위주의 애니메이션 교육을 가능하게 하는 애니메이션 제작.<br>
 &nbsp;• CCTV와 Video Encoding카드를 이용하여 고화질(스켄 수준)의 셀 캡쳐다중 셀을 지원 - 최대 27개 (전문가용)<br>
 &nbsp;• 각 셀에 액션지원 (이동, 확대, 축소, 알파 블랜딩 등)<br>
 &nbsp;• 캡쳐된 그림 편집 (전문가용)<br>

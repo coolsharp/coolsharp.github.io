@@ -7,7 +7,9 @@ caption: #what displays in the portfolio grid:
 #what displays when the item is clicked:
 title: "LG텔레콤 웹 PIMS 고도화"
 projecttitle: "프로젝트 설명"
-project: "LG텔레콤 메인 웹사이트(http://www.lgtelecom.com/) 중 고객 편의를 위해 제공되어온 회원들의 개인정보(주소록, 일정) 관리 개선을 위한 PIMS 구조 개선 프로젝트<br>주소록, 일정등의 정보의 아웃룩, 엑셀등과 연동기능 제공"
+project: "LG텔레콤 메인 웹사이트(http://www.lgtelecom.com/) 고도화 프로젝트.<br>
+고객 편의를 위해 제공되어온 회원들의 개인정보(주소록, 일정) 관리 개선을 위한 PIMS 구조 개선.<br>
+주소록, 일정등의 정보의 아웃룩, 엑셀등과 연동기능 제공."
 roletitle: "주요업무 및 담당역할"
 role: "&nbsp;• ActiveX 인터페이스 모듈 제작<br>
 &nbsp;• OOM(Outlook Object Model) Interface를 이용하여 MS Office Outlook과 주소록, 일정 연동<br>

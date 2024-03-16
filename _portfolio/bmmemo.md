@@ -7,7 +7,8 @@ caption: #what displays in the portfolio grid:
 #what displays when the item is clicked:
 title: "BMMemo"
 projecttitle: "프로젝트 설명"
-project: "쉽게 작성/관리할 수 있는 윈도우용 포스트잇 프로그램으로 배경색, 배경그림, 다양한 글꼴, 글자 중간중간 그림 삽입, 표 기능등 기존 포스트잇 프로그램보다 훨씬 강력하고 다양한 기능을 제공한다.<br>
+project: "쉽게 작성/관리할 수 있는 윈도우용 포스트잇 프로그램.<br>
+배경색, 배경그림, 다양한 글꼴, 글자 중간중간 그림 삽입, 표 기능등 기존 포스트잇 프로그램보다 훨씬 강력하고 다양한 기능을 제공.<br>
 &nbsp;• 다양한 글꼴, 색, 크기를 지원<br>
 &nbsp;• 배경 그림, 배경색을 지원<br>
 &nbsp;• 투명 메모를 지원<br>
@@ -19,7 +20,7 @@ project: "쉽게 작성/관리할 수 있는 윈도우용 포스트잇 프로그
 &nbsp;• 항상 위 또는 밑 기능을 지원<br>
 &nbsp;• 자석기능을 지원"
 roletitle: "주요업무 및 담당역할"
-role: "개발 학습을 위한 토이 프로젝트(평일퇴근이후 또는 주말 취미 코딩)<br>
+role: "개발 학습을 위한 토이 프로젝트로 1인 제작(평일퇴근이후 또는 주말 취미 코딩)<br>
 &nbsp;• 기획, 디자인, 개발, 세너티 테스트, 운영"
 datetitle: "참여기간"
 startdate: 2009/05

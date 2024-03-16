@@ -7,7 +7,7 @@ caption: #what displays in the portfolio grid:
 #what displays when the item is clicked:
 title: "히든 프라이스"
 projecttitle: "프로젝트 설명"
-project: "인터넷 최저보다 저렴한 가격을 보장하는 비공개 특가 공동구매 앱<br>
+project: "인터넷 최저보다 저렴한 가격을 보장하는 비공개 특가 공동구매 앱.<br>
 &nbsp;• 다양한 상품을 특가로 구매할 수 있는 기회를 고객에게 제공하여 쇼핑의 재미를 더하는 공동구매 버티컬 서비스<br>
 &nbsp;• 스마트폰이나 태블릿 등 모바일 기기에서 쇼핑기능 제공<br>
 &nbsp;• 다양한 상품 카테고리와 브랜드를 제공<br>

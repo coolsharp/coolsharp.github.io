@@ -7,7 +7,7 @@ caption: #what displays in the portfolio grid:
 #what displays when the item is clicked:
 title: "위메프 공연티켓검표 시스템"
 projecttitle: "프로젝트 설명"
-project: "기존 수기로 처리하던 위메프에서 판매하는 공연티켓상품의 현장 검표를 자동화 처리해 주는 앱<br>
+project: "기존 수기로 처리하던 위메프에서 판매하는 공연티켓상품의 현장 검표를 자동화 처리해 주는 앱.<br>
 &nbsp;• 기기 카메라를 이용하여 QA코드 자동 인식<br>
 &nbsp;• 인식된 QA코드 자동 검표 진행"
 roletitle: "주요업무 및 담당역할"

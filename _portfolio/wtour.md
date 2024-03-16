@@ -7,7 +7,7 @@ caption: #what displays in the portfolio grid:
 #what displays when the item is clicked:
 title: "W여행컬쳐"
 projecttitle: "프로젝트 설명"
-project: "소셜 커머스 위메프의 여행 & 컬쳐 전용 버티컬 서비스 전용 앱<br>
+project: "소셜 커머스 위메프의 여행 & 컬쳐 전용 버티컬 서비스 전용 앱.<br>
 &nbsp;• 다양한 카테고리 중 여행 & 컬쳐 카테고리 전용 앱<br>
 &nbsp;• 특가 할인 상품과 이벤트 등 다양한 혜택을 제공<br>
 &nbsp;• 다양한 여행 & 컬쳐 상품을 사용자에게 큐레이션<br>

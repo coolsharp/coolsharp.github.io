@@ -7,9 +7,9 @@ caption: #what displays in the portfolio grid:
 #what displays when the item is clicked:
 title: "FXPic"
 projecttitle: "프로젝트 설명"
-project: "사진 또는 갤러리 이미지를 78가지 다양한 이미지 프로세싱 효과를 주는 사진 특수 효과 적용 앱"
+project: "사진 또는 이미지를 78가지 다양한 필터 효과 적용 앱."
 roletitle: "주요업무 및 담당역할"
-role: "개발 학습을 위한 토이 프로젝트(평일퇴근이후 또는 주말 취미 코딩)<br>
+role: "개발 학습을 위한 토이 프로젝트로 1인 제작(평일퇴근이후 또는 주말 취미 코딩)<br>
 &nbsp;• 기획, 디자인, 개발, 세너티 테스트, 운영"
 datetitle: "참여기간"
 startdate: 2012/05

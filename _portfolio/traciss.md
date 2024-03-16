@@ -7,7 +7,7 @@ caption: #what displays in the portfolio grid:
 #what displays when the item is clicked:
 title: "TraCISS"
 projecttitle: "프로젝트 설명"
-project: "교통 시뮬레이션 프로그램인 Paramics와 통신 시뮬레이션 프로그램인 Qualnet의 교통량 및 통신량을 수집하여 통계를 그래프로 표시해주는 프로젝트"
+project: "교통 시뮬레이션 프로그램인 Paramics와 통신 시뮬레이션 프로그램인 Qualnet의 교통량 및 통신량을 수집하여 통계를 그래프로 표시해주는 프로젝트."
 roletitle: "주요업무 및 담당역할"
 role: "UI개발 및 기 개발된 모듈 수정<br>원격 호출을 위한 Launcher Client 및 Server 개발"
 datetitle: "참여기간"

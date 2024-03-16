@@ -7,8 +7,8 @@ caption: #what displays in the portfolio grid:
 #what displays when the item is clicked:
 title: "위메프 파트너 2.0"
 projecttitle: "프로젝트 설명"
-project: "위메프에서 판매하는 상품을 모바일 환경인 스마트폰 또는 태블릿에서 관리할 수 있는 판매자 전용 앱<br>
-화면 대부분이 하이브리드 앱으로 Java Script Callback interface 적용 연동(통신모듈 / 웹 쿠키 싱크)"
+project: "위메프에서 판매하는 상품을 모바일 환경인 스마트폰 또는 태블릿에서 관리할 수 있는 판매자 전용 앱.<br>
+화면 대부분이 하이브리드 앱으로 Java Script Callback interface 적용 연동.(통신모듈 / 웹 쿠키 싱크)"
 roletitle: "주요업무 및 담당역할"
 role: "위메프 파트너 앱 개발 총괄 책임<br>
 &nbsp;• 기획, 디자인, 프론트, 백엔드 요건 분석 및 협의<br>

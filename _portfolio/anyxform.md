@@ -7,7 +7,7 @@ caption: #what displays in the portfolio grid:
 #what displays when the item is clicked:
 title: "anyXForm Mapper"
 projecttitle: "프로젝트 설명"
-project: "기업내에 산재해 있는 다양한 데이터 소스(DBMS등)로부터 XML Schema 기반으로 데이터 모델링을 하고, 실시간(real-time)으로 실제 데이터를 추출하기 위한 query 정보 및 메타정보를 자동/수동으로 생성해 주는 client GUI 툴"
+project: "기업내에 산재해 있는 다양한 데이터 소스(DBMS등)로부터 XML Schema 기반으로 데이터 모델링을 하고, 실시간(real-time)으로 실제 데이터를 추출하기 위한 query 정보 및 메타정보를 자동/수동으로 생성해 주는 client GUI 툴."
 roletitle: "주요업무 및 담당역할"
 role: " • 윈도우 PC 어플케이션 전체 개발 담당<br>
 &nbsp;• XML 스키마 및 DB 테이블 정보를 마우스 드래그 & 드롭기능 지원으로 자동 매핑 정의 XML 생성<br>

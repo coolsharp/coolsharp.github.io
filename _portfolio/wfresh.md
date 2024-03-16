@@ -7,7 +7,7 @@ caption: #what displays in the portfolio grid:
 #what displays when the item is clicked:
 title: "맛신선"
 projecttitle: "프로젝트 설명"
-project: "소셜 커머스 위메프의 신선식품 전용 버티컬 서비스 전용 앱<br>
+project: "소셜 커머스 위메프의 신선식품 전용 버티컬 서비스 전용 앱.<br>
 &nbsp;• 다양한 카테고리 중 신선식품 카테고리 전용 앱<br>
 &nbsp;• 특가 할인 상품과 이벤트 등 다양한 혜택을 제공<br>
 &nbsp;• 다양한 신선식품 상품을 사용자에게 큐레이션<br>
