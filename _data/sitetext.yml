@@ -133,7 +133,7 @@ en: &DEFAULT_EN
         myalt:
         # you can enforce the alignment
         # align: right
-      - title: "넥스트앱스"
+      - title: "미탭스플러스"
         year: "2011/11 ~ 2013/01"
         desc: "앱팡개발팀<br>안드로이드 앱 전체 개발"
         image: assets/img/timeline/appang.png
@@ -142,42 +142,42 @@ en: &DEFAULT_EN
         myalt:
       - title: "2010/04 ~ 2011/07"
         year: "엔스퍼트"
-        desc: "선임연구원 - 응용개발팀<br>안드로이드 태블릿 KT Identity Tab 개발"
+        desc: "선임연구원 / 응용개발팀<br>안드로이드 태블릿 KT Identity Tab 개발"
         image: assets/img/timeline/enspert.png
         alt:
         myimage:
         myalt:
       - title: "모빌탑, 필러지 시스템"
         year: "2007/03 ~ 2010/02"
-        desc: "응용개발3팀 - 선임연구원<br>LGT 뮤직온 플레이어, 삼성 PC 매니저(수출향) 개발"
+        desc: "개발1그룹 / 과장<br>LGT 뮤직온 플레이어, 삼성 PC 매니저(수출향) 개발"
         image: assets/img/timeline/mobiletop.png
         alt:
         myimage:
         myalt:
       - title: "디엔에스테크놀리지"
         year: "2006/04 ~ 2007/03"
-        desc: "시스템 보안팀 - 주임연구원<br>외교통상부, 제주청사 출입보안 및 근태 시스템 개발"
+        desc: "기술부설연구소 / 시스템개발팀 / 주임연구원<br>외교통상부, 제주청사 출입보안 및 근태 시스템 개발"
         image: assets/img/timeline/dnst.png
         alt:
         myimage:
         myalt:
       - title: "사이버이메지네이션"
         year: "2004/11 ~ 2005/10"
-        desc: "개발실 - 대리<br>금융감독원, 증권거래소 웹용 리포팅 솔류션 개발"
+        desc: "개발실 / 대리<br>금융감독원, 증권거래소 웹용 리포팅 솔류션 개발"
         image: assets/img/timeline/cyber.png
         alt:
         # myimage: assets/img/timeline/cyber_me.png
         # myalt:
       - title: "라이니즈"
         year: "2003/11 ~ 2004/07"
-        desc: "개발팀 - 프로그래머<br>애니메이션 라인테스트 솔류션 콤마돌이 개발"
+        desc: "개발팀 / 프로그래머<br>애니메이션 라인테스트 솔류션 콤마돌이 개발"
         image: assets/img/timeline/commadori.png
         alt:
         # myimage: assets/img/timeline/commadori_me.png
         # myalt:
       - title: "엔텍엔지니어링"
         year: "2002/02 ~ 2003/10"
-        desc: "개발팀 - 사원<br>네온사인 디자인 및 ROM 바이너리 생성 솔류션 개발"
+        desc: "연구1팀 / 사원<br>네온사인 디자인 및 ROM 바이너리 생성 솔류션 개발"
         image: assets/img/timeline/neonsign.png
         alt:
         # myimage: assets/img/timeline/neonsign_me.png
