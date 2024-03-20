@@ -182,7 +182,7 @@ en: &DEFAULT_EN
         alt:
         # myimage: assets/img/timeline/neonsign_me.png
         # myalt:
-    end: "assets/img/timeline/latte_coolsharp_v2.png"
+    end: "assets/img/timeline/coolsharp_v3.png"
 
   footer:
     legal: "Privacy Policy"
