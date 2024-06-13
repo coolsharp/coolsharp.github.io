@@ -11,9 +11,9 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    text: 반갑습니다!! 개발자 김균성 입니다.
-    title: 찾아와 주셔서 감사합니다. 😀
-    button: "Learn more about what I do"
+    text: 반갑습니다!!<br>개발팀/그룹 운영 및 다수의 프로젝트 관리 경험을 보유한 김균성 입니다.
+    title: 관심을 가지고 찾아와 주셔서 감사합니다. 😀
+    button: "저를 소개하겠습니다."
     buttonlink: "#about"
 
   about:
@@ -21,7 +21,7 @@ en: &DEFAULT_EN
     text: ""
     profile:
       - name: "김균성"
-        role: "20년차 어플리케이션 개발자"
+        role: "20년 이상의 IT 현장 실무, 팀/그룹관리, 프로젝트 운영, S/W 개발등 다양한 직무 수행"
         image: assets/img/profile/coolsharp_profile_02.png
         social: #find more at https://fontawesome.com/icons
           - url: mailto:coolsharp@gmail.com
@@ -36,12 +36,12 @@ en: &DEFAULT_EN
             icon: fa-brands fa-deviantart
           - url: https://www.github.com/coolsharp/
             icon: fa-brands fa-github-alt
-    body: "다양한 개발 분야 현장에서 20년 이상의 프로젝트 진행 경험이 있습니다. 개발에 대한 열정과 끊임없는 도전으로 다양한 프로젝트를 수행하며 경험을 쌓아왔습니다. 위메프에서 서비스개발실 모바일앱개발그룹장 직책을 담당하였으며 위메프에서 서비스하는 앱 제품군 모든 프로젝트를(기획 / 디자인 / API 스팩 검토 및 부서 커뮤니케이션 채널, 개발 업무 분장, 프로젝트 리스크 관리, 개발 구조 및 방향 결정, 전체 일정 관리 및 QA / 배포 및 운영 모니터링 중 발생하는 다양한 기술 및 정책 이슈 해결)을 총괄하였습니다. 개발, 기획, 디자이너, QA, 영업조직등 회사의 구성원들과 동료들과 협업을 중요시하며 서로의 아이디어를 공유하고 의견을 조율하여 더 나은 결과물을 만들어내기 위해 노력합니다. 또한, 사용자 친화적인 기능과 디자인을 고민하여 개발을 진행하고, 유저 피드백을 수용하여 서비스를 지속적으로 개선하는것을 좋아합니다."
+    body: "e-커머스, 디바이스 제조, 출입보안, 금융업등 다양한 개발 분야 현장에서 20년 이상의 프로젝트 진행 경험이 있습니다. 다양한 프로젝트를 적극적이고 진취적으로 수행하며 성공적으로 완료했습니다. e-커머스 기업 위메프에서 모바일앱개발그룹의 그룹장으로 다양한 프로젝트를(기획 / 디자인 / API 스팩 검토 및 부서 커뮤니케이션 채널, 개발 업무 분장, 프로젝트 리스크 관리, 개발 구조 및 방향 결정, 전체 일정 관리 및 QA / 배포 및 운영 모니터링 중 발생하는 다양한 기술 및 정책 이슈 해결)을 총괄하였습니다. 개발, 기획, 디자이너, QA, 영업조직등 회사의 구성원들과 동료들과 협업을 중요시하며 서로의 아이디어를 공유하고 의견을 조율하여 더 나은 결과물을 만들어내기 위해 노력합니다. 또한, 사용자 친화적인 기능과 디자인을 고민하여 개발을 진행하고, 유저 피드백을 수용하여 서비스를 지속적으로 개선하는것을 좋아합니다."
     section: about
 
   skill:
     title: "Skill"
-    text: "다양한 프로그래밍 언어 및 개발도구를 사용한 경험이 있습니다."
+    text: "여러 프로그래밍 언어 및 도구를 사용합니다."
     section: skill
     list:
       - title: "Android"
@@ -113,13 +113,13 @@ en: &DEFAULT_EN
 
   portfolio:
     title: "Portfolio"
-    text: "다양한 분야에서 다수의 프로젝트를 성공적으로 진행하였습니다.<br>아래 리스트 **항목을 클릭**하면 자세한 내용을 보실 수 있습니다."
+    text: "분야를 넘나드는 다수의 프로젝트를 성공적으로 진행하였습니다.<br>아래 리스트 **항목을 클릭**하면 자세한 내용을 보실 수 있습니다."
     section: portfolio
     closebutton: "닫기"
 
   timeline:
     title: "Timeline"
-    text: "20년간 다양한 분야에서 근무하였습니다."
+    text: "20년간 다양한 IT 현장에서 실무를 진행했습니다."
     section: timeline
     # left is the default
     #start_align: "left"
