@@ -21,7 +21,7 @@ en: &DEFAULT_EN
     text: ""
     profile:
       - name: "김균성"
-        role: "20년 이상의 IT 현장 실무, 팀/그룹관리, 프로젝트 운영, S/W 개발등 다양한 직무 수행"
+        role: "20년 이상의 IT 현장에서 팀/그룹관리, 프로젝트 운영, S/W 개발등 다양한 직무 수행"
         image: assets/img/profile/coolsharp_profile_02.png
         social: #find more at https://fontawesome.com/icons
           - url: mailto:coolsharp@gmail.com
