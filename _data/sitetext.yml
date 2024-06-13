@@ -126,7 +126,7 @@ en: &DEFAULT_EN
     events:
       - title: "위메프"
         year: "2013/01 ~ 2023/06"
-        desc: "앱개발그룹장 / 안드로이드개발팀장(겸)<br>위메프 서비스 관련 앱 개발 총괄<br>안드로이드개발팀 리딩"
+        desc: "앱개발그룹장 / 안드로이드개발팀장(겸)<br>위메프 서비스 관련 앱 개발 총괄"
         image: assets/img/timeline/wemakeprice.png
         alt:
         myimage: assets/img/timeline/wemakeprice_me.png
