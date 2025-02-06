@@ -129,7 +129,7 @@ en: &DEFAULT_EN
         desc: "하얀소리 시리즈 개발"
         image: assets/img/timeline/coolsharp_v3.png
         alt:
-        myimage: assets/img/timeline/wemakeprice_me.png
+        myimage:
         myalt:
         # you can enforce the alignment
         # align: right
