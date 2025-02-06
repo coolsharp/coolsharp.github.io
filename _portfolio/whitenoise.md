@@ -22,7 +22,7 @@ roletitle: "주요업무 및 담당역할"
 role: "개발 학습을 위한 토이 프로젝트로 1인 제작(평일퇴근이후 또는 주말 취미 코딩)<br>
 &nbsp;• 기획, 디자인, 개발, 세너티 테스트, 운영"
 datetitle: "참여기간"
-startdate: 2011/01
+startdate: 2023/07
 enddate: 현재
 skilltitle: "개발언어 / 주요기술 / 사용툴"
 skills:

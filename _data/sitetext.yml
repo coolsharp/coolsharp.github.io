@@ -124,6 +124,15 @@ en: &DEFAULT_EN
     # left is the default
     #start_align: "left"
     events:
+      - title: "coolsharp"
+        year: "2023/07 ~ 현재"
+        desc: "하얀소리 시리즈 개발"
+        image: assets/img/timeline/coolsharp_v3.png
+        alt:
+        myimage: assets/img/timeline/wemakeprice_me.png
+        myalt:
+        # you can enforce the alignment
+        # align: right
       - title: "위메프"
         year: "2013/01 ~ 2023/06"
         desc: "앱개발그룹장 / 안드로이드개발팀장(겸)<br>위메프 서비스 관련 앱 개발 총괄"
@@ -131,8 +140,8 @@ en: &DEFAULT_EN
         alt:
         myimage: assets/img/timeline/wemakeprice_me.png
         myalt:
-        # you can enforce the alignment
-        # align: right
+        #
+        #
       - title: "미탭스플러스"
         year: "2011/11 ~ 2013/01"
         desc: "앱팡개발팀<br>안드로이드 앱 전체 개발"
