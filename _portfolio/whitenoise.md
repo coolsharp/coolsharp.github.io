@@ -41,6 +41,6 @@ imagetitle: "참고화면"
 images:
  - src: assets/img/portfolio/whitenoise/whitenoise_01.png
  - alt: 
-date: 2018-01-01
+date: 2023-07-01
 ---
 <img class="img-fluid d-block mx-auto" src="assets/img/portfolio/whitenoise/whitenoise_02.png" alt="" />
