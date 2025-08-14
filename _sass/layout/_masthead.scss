@@ -1,15 +1,19 @@
 // Styling for the masthead
 header.masthead {
-  text-align: center;
   color: white;
-  // width: 100vw;
-  // height: 100vh;
+  width: 100vw;
+  height: 100vh;
   background-image: url("#{$header-image}");
   // background-image: url("https://images.pexels.com/photos/4792714/pexels-photo-4792714.jpeg?cs=srgb&dl=pexels-anete-lusina-4792714.jpg&fm=jpg&w=1920&h=1282");
   background-repeat: no-repeat;
   background-attachment: scroll;
-  background-position: center center;
   background-size: cover;
+  .container-box {
+    text-align: center;
+    position: absolute;
+    width: 100vw;
+    height: 100vh;
+  }
   .intro-text {
     padding-top: 350px;
     padding-bottom: 250px;
@@ -34,8 +38,6 @@ header.masthead {
 @media (min-width: 768px) {
   header.masthead {
     .intro-text {
-      padding-top: 350px;
-      padding-bottom: 250px;
       .intro-lead-in {
         font-size: 40px;
         line-height: 40px;
@@ -54,4 +56,14 @@ header.masthead {
       }
     }
   }
+}
+
+#particles-js {
+  width: 100%;
+  height: 100%;
+  z-index: -1;
+  // background-color: #ff0000;
+  // background-size: cover;
+  // background-position: 50% 50%;
+  // background-repeat: no-repeat;
 }
